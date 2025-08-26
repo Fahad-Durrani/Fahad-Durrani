@@ -1,4 +1,4 @@
-**Machine Learning Engineer | MS Data Science (AI Major) | GenAI | AI Agents | MLOps | Recommendation & Matching Systems**
+## **Machine Learning Engineer | MS Data Science (AI Major) | GenAI | AI Agents | MLOps | Recommendation & Matching Systems**
 
 📍 Lahore, Pakistan  
 📧 fahaddurrani866@gmail.com  
@@ -77,7 +77,7 @@ AI Engineer with 3.6+ years of experience designing matching engines, recommenda
 **🛠 Tech Stack:**  AWS EC2, CrewAI, LangChain SQL Agent, LangChain RAG, OpenAI (Chat Models), Pyplot/Plotly, PDF Report Generation, WebSocket, FastAPI,Milvus, S3
 
 <details>
-  <summary><b>📸 Click to view New Screenshots</b></summary>
+  <summary><b>📸 Click to view Screenshots</b></summary>
 
   <p align="center">
     <img src="https://drive.google.com/uc?export=view&id=1ykAZ9svPSZ9OmoFz4yNP3nWuaV_Hb4TO" width="400" />
@@ -95,17 +95,20 @@ AI Engineer with 3.6+ years of experience designing matching engines, recommenda
 - 📌 *Stack:* PyTorch, TensorFlow, YOLO, ChromaDB, LamaIndex, MySQL, WandB, PowerBI  
 
 ---
+
 ## 🛠️ Skills
 
-- **AI/ML:** Prompt Engineering, LlamaIndex, LangChain, PEFT (LoRA & Quantization), Fine-tuning, NLTK, spaCy, CrewAI, LangGraph, MCP
-- **Azure Services:** Azure Document Intelligence, Azure Custom Vision, Azure Machine Learning, Azure DevOps, Azure Key Vault, Azure Blob Storage, Azure ML SDK
-- **AWS Service:** AWS SageMaker, AWS Lambda, AWS Bedrock, AWS EC2, S3
-- **MLOps:** GitHub Actions, MLflow, Git, Docker, Kubernetes, PyTorch Serve,Tensor Flow Data Validation(TFDV),CI/CD pipeline
-- **Model Training:** TensorFlow, PyTorch, TFDS Efficient Dataloaders, Hugging Face Transformers and Libraries
-- **Programming:** Python, R, SQL  
-- **Databases:** PostgreSQL, MongoDB  
-- **BI Tools:** Power BI, Tableau
-- **Other Concepts:** n8n,Agile methodologies, FastAPI, Webhooks, Pydantic, logging, Enums, Pooling, Jira
+| Category         | Skills |
+|------------------|--------|
+| **AI/ML**        | Prompt Engineering, LlamaIndex, LangChain, PEFT (LoRA & Quantization), Fine-tuning, NLTK, spaCy, CrewAI, LangGraph, MCP |
+| **Azure Services** | Azure Document Intelligence, Azure Custom Vision, Azure Machine Learning, Azure DevOps, Azure Key Vault, Azure Blob Storage, Azure ML SDK |
+| **AWS Services** | AWS SageMaker, AWS Lambda, AWS Bedrock, AWS EC2, S3 |
+| **MLOps**        | GitHub Actions, MLflow, Git, Docker, Kubernetes, PyTorch Serve, TensorFlow Data Validation (TFDV), CI/CD pipeline |
+| **Model Training** | TensorFlow, PyTorch, TFDS Efficient Dataloaders, Hugging Face Transformers and Libraries |
+| **Programming**  | Python, R, SQL |
+| **Databases**    | PostgreSQL, MongoDB |
+| **BI Tools**     | Power BI, Tableau |
+| **Other Concepts** | n8n, Agile methodologies, FastAPI, Webhooks, Pydantic, Logging, Enums, Pooling, Jira |
 
 ---
 
