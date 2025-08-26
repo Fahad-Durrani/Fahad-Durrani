@@ -38,12 +38,15 @@ AI Engineer with 3.6+ years of experience designing matching engines, recommenda
 
 ## 🍽️ Food Recommendation System  
 [Live Website Link](https://www.resthero.io/)  
-<details>
-  <summary>📸 Click to view Screenshot</summary>
-
-  ![Project Screenshot](https://drive.google.com/uc?export=view&id=12pHrsdx9YhJk9XKXfgpDsMB5SzS6qPl5)
-
-</details>
+<p align="center">
+  <a href="https://drive.google.com/file/d/12pHrsdx9YhJk9XKXfgpDsMB5SzS6qPl5/view?usp=sharing">
+    <img src="https://drive.google.com/uc?export=view&id=12pHrsdx9YhJk9XKXfgpDsMB5SzS6qPl5" width="400" />
+  </a>
+  ➡️
+  <a href="https://drive.google.com/file/d/1BHOAWJJ9DcuoAzkPz-5BiYuPt4jz3ThH/view?usp=sharing">
+    <img src="https://drive.google.com/uc?export=view&id=1BHOAWJJ9DcuoAzkPz-5BiYuPt4jz3ThH" width="400" />
+  </a>
+</p>
 
 - Developed a **content-based recommendation system** supporting multiple restaurant brands by building an **ETL pipeline** to process item metadata (title, description, ingredients) from MongoDB, with cronjobs for periodic updates.  
 - Utilized **Hugging Face multilingual sentence embeddings** to generate vector representations for food items, enabling semantic similarity-based recommendations and solving the **cold start problem** with content-only embeddings.  
