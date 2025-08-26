@@ -58,8 +58,12 @@ AI Engineer with 3.6+ years of experience designing matching engines, recommenda
     <img src="https://drive.google.com/uc?export=view&id=1BHOAWJJ9DcuoAzkPz-5BiYuPt4jz3ThH" width="400" />
   </p>
 
-</details>
+  <p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=10T7pVQ8Dbgs9SE7Q_7OfdzVXETZvVoNl" width="400" />
+    <img src="https://drive.google.com/uc?export=view&id=1jcYDXVpGnuKOP1Q8VosgQjcKs6ZTqP8U" width="400" />
+  </p>
 
+</details>
 
 ---
 
