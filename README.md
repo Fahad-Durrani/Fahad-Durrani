@@ -68,12 +68,15 @@ AI Engineer with 3.6+ years of experience designing matching engines, recommenda
 ---
 
 ### 🤖 Multi-Agent Chatbot Framework  
+[Live Website Link](https://d2a5948llkb7uv.cloudfront.net/auth/login) 
 - Designed, built, and deployed a complete multi-agent workflow POC using CrewAI with WebSocket support for  real-time interactions, leveraging OpenAI’s GPT models for NLP tasks, and hosted the solution on AWS. 
 - Developed a LangChain-based SQL Agent to translate natural language queries into SQL statements and retrieve  structured skill demand and supply data from relational databases. 
 - Implemented a Retrieval-Augmented Generation (RAG) pipeline using LangChain, fetching relevant documents  from a vector store and generating context-aware responses via OpenAI’s LLMs. 
 - Integrated custom CrewAI tools to generate real-time visualizations—such as bar charts and pie charts—embedded directly within the chatbot interface. 
+
 **🛠 Tech Stack:**  AWS EC2, CrewAI, LangChain SQL Agent, LangChain RAG, OpenAI (Chat Models), Pyplot/Plotly, PDF Report Generation, WebSocket, FastAPI,Milvus, S3
-  <details>
+
+<details>
   <summary><b>📸 Click to view New Screenshots</b></summary>
 
   <p align="center">
