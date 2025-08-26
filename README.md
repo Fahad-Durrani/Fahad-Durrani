@@ -53,6 +53,7 @@ AI Engineer with 3.6+ years of experience designing matching engines, recommenda
 
 **🛠 Tech Stack:** Python, MongoDB, AWS S3, AWS EC2, Hugging Face Transformers, PyTorch Serve, Pandas, PowerBI, Google Maps APIs
 
+---
 
 ### 🤖 Multi-Agent Chatbot Framework  
 - Designed a **CrewAI multi-agent workflow** with WebSocket support for real-time interactions.  
