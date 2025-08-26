@@ -51,7 +51,7 @@ AI Engineer with 3.6+ years of experience designing matching engines, recommenda
 
 **🛠 Tech Stack:** Python, MongoDB, AWS S3, AWS EC2, Hugging Face Transformers, PyTorch Serve, Pandas, PowerBI, Google Maps APIs
 <details>
-  <summary><b>📸 Click to view Screenshots</b></summary>
+  <summary><b><u>📸 Click to view Screenshots</u></b></summary>
 
   <p align="center">
     <img src="https://drive.google.com/uc?export=view&id=12pHrsdx9YhJk9XKXfgpDsMB5SzS6qPl5" width="400" />
