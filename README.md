@@ -1,5 +1,5 @@
 # Hi, I'm Fahad Durrani 👋  
-**AI Engineer | Machine Learning | NLP | MLOps | Azure & AWS**
+**Machine Learning Engineer | MS Data Science (AI Major) | GenAI | AI Agents | MLOps | Recommendation & Matching Systems**
 
 📍 Lahore, Pakistan  
 📧 fahaddurrani866@gmail.com  
@@ -8,11 +8,18 @@
 ---
 
 ## 💡 About Me
-AI Engineer with 3.5+ years of experience designing matching engines, recommendation systems, OCR solutions, and NLP pipelines. Proficient in agentic workflows, generative AI, and deploying models with MLOps practices on **Azure** and **AWS**. Skilled in building production-ready AI systems, vector databases, RAG pipelines, and custom model fine-tuning.
+AI Engineer with 3.6+ years of experience designing matching engines, recommendation systems, OCR solutions, and NLP pipelines. Proficient in agentic workflows, generative AI, and deploying models with MLOps practices on **Azure** and **AWS**. Skilled in building production-ready AI systems, vector databases, RAG pipelines, and custom model fine-tuning.
 
 ---
 
 ## 🚀 Featured Projects
+
+###  Multi-Agent (Langraph) Hiring & Onboarding System 
+- Built a LangGraph MCP framework with 10+ role-based agents automating role definition, candidate evaluation, and onboarding. 
+- Integrated action execution, process analytics, and conversational memory for an end-to-end autonomous hiring pipeline.
+- Deployed on Azure as a microservice with observability, logging, and traceability.
+
+
 
 ### 📝 Applicant Tracking System (ATS) – Matching Algorithm  
 - Designed & implemented an end-to-end ATS supporting experienced, graduate, and intern hiring workflows.  
