@@ -18,7 +18,7 @@ AI Engineer with 3.6+ years of experience designing matching engines, recommenda
 - Integrated action execution, process analytics, and conversational memory for an end-to-end autonomous hiring pipeline.
 - Deployed on Azure as a microservice with observability, logging, and traceability.
 
-
+---
 
 ### 📝 Applicant Tracking System (ATS) – Matching Algorithm  
 - Designed & implemented an end-to-end ATS supporting experienced, graduate, and intern hiring workflows.  
