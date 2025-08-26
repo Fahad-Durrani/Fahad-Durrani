@@ -37,13 +37,22 @@ AI Engineer with 3.6+ years of experience designing matching engines, recommenda
 
 ---
 
-### 🍔 Food Recommendation System  
-- Built a **content-based recommendation system** for multiple restaurant brands.  
-- Used **Hugging Face embeddings** for semantic similarity and solved the cold-start problem.  
-- Integrated with a **WhatsApp chatbot** to recommend nearby restaurants based on cravings + location.  
-- 📌 *Stack:* Python, MongoDB, AWS S3, AWS EC2, Hugging Face, PyTorch Serve, Pandas, Power BI, Google Maps APIs  
+## 🍽️ Food Recommendation System  
+[Live Website](https://www.resthero.io/)  
 
----
+- Developed a **content-based recommendation system** supporting multiple restaurant brands by building an **ETL pipeline** to process item metadata (title, description, ingredients) from MongoDB, with cronjobs for periodic updates.  
+- Utilized **Hugging Face multilingual sentence embeddings** to generate vector representations for food items, enabling semantic similarity-based recommendations and solving the **cold start problem** with content-only embeddings.  
+- Serialized embeddings as pickle files and stored them on **Amazon S3** using multipart uploads for efficient large-scale data handling.  
+- Evaluated and optimized system performance using recommender metrics like **CTR, Coverage, Diversity, Novelty, Churn, and Responsiveness**, improving recommendation quality and user experience.  
+- Built and maintained a **data analysis pipeline** feeding into **Power BI dashboards** to monitor restaurant churn, user behavior, and overall performance with actionable insights.  
+- Deployed the end-to-end recommendation system on **AWS infrastructure**, ensuring scalability and seamless integration.  
+- Integrated a **WhatsApp chatbot** as an AI-powered auto-catalogue assistant:  
+  - Captured user cravings and extracted food-related entities using **NER with Hugging Face Transformers**.  
+  - Retrieved food recommendations via the content-based recommendation engine.  
+  - Estimated restaurant proximity using **Haversine distance**, **Google Distance Matrix**, and **Geocoding APIs** to recommend nearby restaurants.  
+
+**🛠 Tech Stack:** Python, MongoDB, AWS S3, AWS EC2, Hugging Face Transformers, PyTorch Serve, Pandas, PowerBI, Google Maps APIs
+
 
 ### 🤖 Multi-Agent Chatbot Framework  
 - Designed a **CrewAI multi-agent workflow** with WebSocket support for real-time interactions.  
