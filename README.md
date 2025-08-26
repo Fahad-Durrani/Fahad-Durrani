@@ -17,7 +17,14 @@ AI Engineer with 3.6+ years of experience designing matching engines, recommenda
 - Built a LangGraph MCP framework with 10+ role-based agents automating role definition, candidate evaluation, and onboarding. 
 - Integrated action execution, process analytics, and conversational memory for an end-to-end autonomous hiring pipeline.
 - Deployed on Azure as a microservice with observability, logging, and traceability.
-
+<p align="center">
+  <a href="https://drive.google.com/file/d/12pHrsdx9YhJk9XKXfgpDsMB5SzS6qPl5/view?usp=sharing" target="_blank">
+    <img src="https://drive.google.com/uc?export=view&id=12pHrsdx9YhJk9XKXfgpDsMB5SzS6qPl5" width="400" alt="View Image 1"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1BHOAWJJ9DcuoAzkPz-5BiYuPt4jz3ThH/view?usp=sharing" target="_blank">
+    <img src="https://drive.google.com/uc?export=view&id=1BHOAWJJ9DcuoAzkPz-5BiYuPt4jz3ThH" width="400" alt="View Image 2"/>
+  </a>
+</p
 ---
 
 ### 📝 Applicant Tracking System (ATS) – Matching Algorithm  
