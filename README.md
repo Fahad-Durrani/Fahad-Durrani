@@ -50,9 +50,14 @@ AI Engineer with 3.6+ years of experience designing matching engines, recommenda
   - Estimated restaurant proximity using **Haversine distance**, **Google Distance Matrix**, and **Geocoding APIs** to recommend nearby restaurants.  
 
 **🛠 Tech Stack:** Python, MongoDB, AWS S3, AWS EC2, Hugging Face Transformers, PyTorch Serve, Pandas, PowerBI, Google Maps APIs
-📂 Recommendations
-➡️ [View Slide 1](https://drive.google.com/file/d/12pHrsdx9YhJk9XKXfgpDsMB5SzS6qPl5/view?usp=sharing)  
-➡️ [View Slide 2](https://drive.google.com/file/d/1BHOAWJJ9DcuoAzkPz-5BiYuPt4jz3ThH/view?usp=sharing)
+<p align="center">
+  <a href="https://drive.google.com/file/d/12pHrsdx9YhJk9XKXfgpDsMB5SzS6qPl5/view?usp=sharing">
+    <img src="https://drive.google.com/uc?export=view&id=12pHrsdx9YhJk9XKXfgpDsMB5SzS6qPl5" width="400" />
+  </a>
+  <a href="https://drive.google.com/file/d/1BHOAWJJ9DcuoAzkPz-5BiYuPt4jz3ThH/view?usp=sharing">
+    <img src="https://drive.google.com/uc?export=view&id=1BHOAWJJ9DcuoAzkPz-5BiYuPt4jz3ThH" width="400" />
+  </a>
+</p>
 
 
 ---
