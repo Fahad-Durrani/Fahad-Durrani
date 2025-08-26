@@ -3,7 +3,6 @@
 
 📍 Lahore, Pakistan  
 📧 fahaddurrani866@gmail.com  
-📞 +92-334-8666887  
 🔗 [LinkedIn](http://www.linkedin.com/in/fahaddurrani) | [GitHub](https://github.com/FahadDurrani866)
 
 ---
@@ -54,13 +53,6 @@ AI Engineer with 3.5+ years of experience designing matching engines, recommenda
 - 📌 *Stack:* PyTorch, TensorFlow, YOLO, ChromaDB, LamaIndex, MySQL, WandB, PowerBI  
 
 ---
-
-### ⚙️ Industrial Engineering (Bestway Cement)  
-- Led installation & commissioning of a complete cement plant.  
-- Applied **predictive maintenance** using sensor data preprocessing & feature extraction.  
-
----
-
 ## 🛠️ Skills
 
 - **AI/ML:** NLP, Prompt Engineering, RAG, LlamaIndex, LangChain, CrewAI, PEFT, Hugging Face, Fine-tuning  
