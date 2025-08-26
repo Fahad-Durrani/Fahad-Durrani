@@ -38,11 +38,11 @@ AI Engineer with 3.6+ years of experience designing matching engines, recommenda
 ---
 
 ## 🍽️ Food Recommendation System  
-[Live Website](https://www.resthero.io/)  
+[Live Website Link](https://www.resthero.io/)  
 <details>
   <summary>📸 Click to view Screenshot</summary>
 
-  ![Project Screenshot](https://drive.google.com/uc?export=view&id=12pHrsdx9YhJk9XKXfgpDsMB5SzS6qPl5)
+  [![Click to view Recommendations](https://drive.google.com/uc?export=view&id=12pHrsdx9YhJk9XKXfgpDsMB5SzS6qPl5)
 
 </details>
 
