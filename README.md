@@ -17,14 +17,14 @@ AI Engineer with 3.6+ years of experience designing matching engines, recommenda
 - Built a LangGraph MCP framework with 10+ role-based agents automating role definition, candidate evaluation, and onboarding. 
 - Integrated action execution, process analytics, and conversational memory for an end-to-end autonomous hiring pipeline.
 - Deployed on Azure as a microservice with observability, logging, and traceability.
-
+**🛠 Tech Stack:** Langraph, MCP, BAckend APIS, Fuzz logic
 ---
 
 ### 📝 Applicant Tracking System (ATS) – Matching Algorithm  
 - Designed & implemented an end-to-end ATS supporting experienced, graduate, and intern hiring workflows.  
 - Applied **Generative AI + NLP** for parsing, skill extraction, experience mapping, and career-level assignment.  
 - Used **Milvus Vector DB** for embeddings, **Azure OpenAI** for candidate-job matching, and **FastAPI** for microservices.  
-- 📌 *Stack:* Azure Document Intelligence, Azure OpenAI, Hugging Face, Milvus, PyTorch Serve, PostgreSQL, Docker, FastAPI  
+**🛠 Tech Stack:** Azure Document Intelligence, Azure OpenAI, Hugging Face, Milvus, PyTorch Serve, PostgreSQL, Docker, FastAPI  
 
 ---
 
@@ -32,7 +32,7 @@ AI Engineer with 3.6+ years of experience designing matching engines, recommenda
 - Fine-tuned **Azure Custom Vision** and **Azure Document Intelligence** models for extracting structured and semi-structured document fields.  
 - Built scalable ingestion + preprocessing pipelines for candidate uploads.  
 - Deployed on **Azure** with a microservices architecture.  
-- 📌 *Stack:* Azure Document Intelligence, Azure Custom Vision, PyMuPDF, OpenCV, PostgreSQL, FastAPI  
+**🛠 Tech Stack:** Azure Document Intelligence, Azure Custom Vision, PyMuPDF, OpenCV, PostgreSQL, FastAPI  
 
 ---
 
@@ -68,10 +68,20 @@ AI Engineer with 3.6+ years of experience designing matching engines, recommenda
 ---
 
 ### 🤖 Multi-Agent Chatbot Framework  
-- Designed a **CrewAI multi-agent workflow** with WebSocket support for real-time interactions.  
-- Implemented **LangChain SQL Agent** for querying structured data and **RAG pipeline** for document retrieval.  
-- Added tools for real-time chart generation + PDF reporting.  
-- 📌 *Stack:* CrewAI, LangChain, OpenAI, FastAPI, WebSocket, Milvus, AWS EC2, Plotly  
+- Designed, built, and deployed a complete multi-agent workflow POC using CrewAI with WebSocket support for  real-time interactions, leveraging OpenAI’s GPT models for NLP tasks, and hosted the solution on AWS. 
+- Developed a LangChain-based SQL Agent to translate natural language queries into SQL statements and retrieve  structured skill demand and supply data from relational databases. 
+- Implemented a Retrieval-Augmented Generation (RAG) pipeline using LangChain, fetching relevant documents  from a vector store and generating context-aware responses via OpenAI’s LLMs. 
+- Integrated custom CrewAI tools to generate real-time visualizations—such as bar charts and pie charts—embedded directly within the chatbot interface. 
+**🛠 Tech Stack:**  AWS EC2, CrewAI, LangChain SQL Agent, LangChain RAG, OpenAI (Chat Models), Pyplot/Plotly, PDF Report Generation, WebSocket, FastAPI,Milvus, S3
+  <details>
+  <summary><b>📸 Click to view New Screenshots</b></summary>
+
+  <p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1ykAZ9svPSZ9OmoFz4yNP3nWuaV_Hb4TO" width="400" />
+    <img src="https://drive.google.com/uc?export=view&id=1hOjh_oJDAqQCvVAW6w9RY5G0wMgQqtmr" width="400" />
+  </p>
+
+</details>
 
 ---
 
@@ -84,17 +94,20 @@ AI Engineer with 3.6+ years of experience designing matching engines, recommenda
 ---
 ## 🛠️ Skills
 
-- **AI/ML:** NLP, Prompt Engineering, RAG, LlamaIndex, LangChain, CrewAI, PEFT, Hugging Face, Fine-tuning  
-- **Cloud:** Azure (Document Intelligence, Custom Vision, Azure ML, Key Vault), AWS (SageMaker, Lambda, Bedrock, EC2, S3)  
-- **MLOps:** GitHub Actions, MLflow, Docker, Kubernetes, PyTorch Serve, TensorFlow Data Validation (TFDV), CI/CD  
+- **AI/ML:** Prompt Engineering, LlamaIndex, LangChain, PEFT (LoRA & Quantization), Fine-tuning, NLTK, spaCy, CrewAI, LangGraph, MCP
+- **Azure Services:** Azure Document Intelligence, Azure Custom Vision, Azure Machine Learning, Azure DevOps, Azure Key Vault, Azure Blob Storage, Azure ML SDK
+- **AWS Service:** AWS SageMaker, AWS Lambda, AWS Bedrock, AWS EC2, S3
+- **MLOps:** GitHub Actions, MLflow, Git, Docker, Kubernetes, PyTorch Serve,Tensor Flow Data Validation(TFDV),CI/CD pipeline
+- **Model Training:** TensorFlow, PyTorch, TFDS Efficient Dataloaders, Hugging Face Transformers and Libraries
 - **Programming:** Python, R, SQL  
 - **Databases:** PostgreSQL, MongoDB  
-- **BI Tools:** Power BI, Tableau  
+- **BI Tools:** Power BI, Tableau
+- **Other Concepts:** n8n,Agile methodologies, FastAPI, Webhooks, Pydantic, logging, Enums, Pooling, Jira
 
 ---
 
 ## 🎓 Education  
-- **MS Data Science** – FAST-NUCES, Islamabad (CGPA: 3.96) *(2021–2024)*  
+- **MS Data Science** –  National University of Computer and Emerging Sciences (FAST), Islamabad  (CGPA: 3.96) *(2021–2024)*  
 - **BS Electronics Engineering** – COMSATS University (CGPA: 3.09) *(2013–2017)*  
 
 ---
