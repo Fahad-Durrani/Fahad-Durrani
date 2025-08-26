@@ -1,9 +1,9 @@
 **Machine Learning Engineer | MS Data Science (AI Major) | GenAI | AI Agents | MLOps | Recommendation & Matching Systems**
+
 📍 Lahore, Pakistan  
 📧 fahaddurrani866@gmail.com  
 🔗 [LinkedIn](http://www.linkedin.com/in/fahaddurrani) | [GitHub](https://github.com/FahadDurrani866)
 
----
 ---
 
 ## 💡 About Me
@@ -39,8 +39,9 @@ AI Engineer with 3.6+ years of experience designing matching engines, recommenda
 ## 🍽️ Food Recommendation System  
 [Live Website Link](https://www.resthero.io/)  
 <details>
+  <summary>📸 Click to view Screenshot</summary>
 
-  [![Click to view Recommendations](https://drive.google.com/uc?export=view&id=12pHrsdx9YhJk9XKXfgpDsMB5SzS6qPl5)
+  ![Project Screenshot](https://drive.google.com/uc?export=view&id=12pHrsdx9YhJk9XKXfgpDsMB5SzS6qPl5)
 
 </details>
 
