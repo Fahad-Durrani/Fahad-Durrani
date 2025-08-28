@@ -134,6 +134,7 @@ and AWS**.
 
 | Certificate                     | Issued By           | Platform   |
 |---------------------------------|---------------------|------------|
+| **Introduction to langraph**    | Langraph            | Langcain Academy   |
 | **LLMOps**                      | Duke University     | Coursera   |
 | **MLOps**                       | DeepLearning.AI     | Coursera   |
 | **NLP Specialization**          | DeepLearning.AI     | Coursera   |
