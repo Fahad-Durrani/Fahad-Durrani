@@ -15,17 +15,25 @@ and AWS**.
 ## 🚀 Featured Projects
 
 ###  Multi-Agent (Langraph) Hiring & Onboarding System 
-- Built a LangGraph MCP framework with 10+ role-based agents automating role definition, candidate evaluation, and onboarding. 
+- Built a **LangGraph MCP framework** with 10+ role-based agents automating role definition, candidate evaluation, and onboarding. 
 - Integrated action execution, process analytics, and conversational memory for an end-to-end autonomous hiring pipeline.
 - Deployed on Azure as a microservice with observability, logging, and traceability.
-**🛠 Tech Stack:** Langraph, MCP, BAckend APIS, Fuzz logic
+**🛠 Tech Stack:** Langraph, MCP, BAckend APIS, Fuzz logic, Azure Blob Storage, WebSocket,Docker
 ---
 
 ### 📝 Applicant Tracking System (ATS) – Matching Algorithm  
-- Designed & implemented an end-to-end ATS supporting experienced, graduate, and intern hiring workflows.  
-- Applied **Generative AI + NLP** for parsing, skill extraction, experience mapping, and career-level assignment.  
-- Used **Milvus Vector DB** for embeddings, **Azure OpenAI** for candidate-job matching, and **FastAPI** for microservices.  
-**🛠 Tech Stack:** Azure Document Intelligence, Azure OpenAI, Hugging Face, Milvus, PyTorch Serve, PostgreSQL, Docker, FastAPI  
+- Co-developed an end-to-end ATS supporting **Experienced, Graduate, and Intern hiring workflows**. 
+- Authored the complete **Business Requirements Document (BRD)** to define project scope, features, and stakeholder expectations, ensuring strong client engagement and incorporating recruiter feedback to enhance results throughout the process. 
+- Designed and implemented a pipeline to **parse CVs and job descriptions, store structured information in PostgreSQL**, and perform advanced candidate-job matching. 
+- Applied **generative AI using Azure OpenAI and a wide range of NLP techniques including similarity measures, ngrams, pattern matching, Jaccard similarity and embedding-based approaches** across all stages: **Parsing, skill extraction    and standardization, Functional experience mapping, Career level assignment, and Education checks (Degree and Major Relevance, CGPA, University Ranking)**. 
+- Engineered and tuned unbiased formulas and scoring systems, leveraging domain-specific business logic for in depth extraction, verification, and accurate mapping of all extracted fields. 
+- Utilized **Retrieval-Augmented Generation (RAG) with Vector DB Milvus** for efficient embedding storage and candidate matching, optimizing costs for generative models and **serving embedding models via PyTorch Serve**. 
+- Leveraged PostgreSQL for efficient data management and **deployed the complete ATS solution on Microsoft Azure using a containerized microservices architecture**, ensuring scalability, reliability, and secure remote access. 
+- Designed and integrated **AI-driven candidate–job matching summaries and scoring dashboards**, ensuring clarity across all recruitment stages.
+- Collaborated **cross-functionally with UI/UX, backend, and engineering teams** to enable seamless data processing and system integration.
+- AI-powered **top job recommendations for candidates** and **JD-to-candidate matching pipelines**, improving recruiter efficiency and placement accuracy. 
+**🛠 Tech Stack:**  Azure Document Intelligence, Azure OpenAI, Hugging Face Transformers, Milvus Vector DB, Azure Blob Storage, Azure Key Vault, Azure Machine Learning (model monitoring), Azure Monitor, Python, PyTorch Serve (for 
+embedding models), PostgreSQL, spaCy, NLTK, Docker, FastAPI, Webhooks,pooling 
 
 ---
 
@@ -35,7 +43,7 @@ and AWS**.
 signatures. 
 - **Fine-tuned Azure Document Intelligence Custom Models** to extract specific key-value fields from structured and semi-structured documents, tailored to business needs. 
 - Leveraged **Azure Document Intelligence Prebuilt Models** (e.g., Read, Layout, Identity Document) to extract text, tables, structures, and named entities from common document types. 
-- Built a **document ingestion pipeline for candidate uploads, managing image size validation, format standardization, and preprocessing to ensure optimal input quality. 
+- Built a **document ingestion pipeline** for candidate uploads, managing image size validation, format standardization, and preprocessing to ensure optimal input quality. 
 - Integrated both prebuilt and custom models into a scalable, **end-to-end OCR pipeline** using the Azure SDK, and deployed it on Microsoft Azure using a **containerized microservices architecture** for production use. 
 
 **🛠 Tech Stack:** : Azure Document Intelligence, Azure Custom Vision, Azure SDK, Azure OCR Services, Microsoft Azure, Python, Azure Blob Storage, PostgreSQL, pdf2image, PyMuPDF (fitz), Pillow, OpenCV, FastAPI, Pydantic, Enums 
@@ -75,10 +83,10 @@ signatures.
 
 ### 🤖 Multi-Agent Chatbot Framework  
 [Live Website Link](https://d2a5948llkb7uv.cloudfront.net/auth/login) 
-- Designed, built, and deployed a complete multi-agent workflow POC using CrewAI with WebSocket support for  real-time interactions, leveraging OpenAI’s GPT models for NLP tasks, and hosted the solution on AWS. 
-- Developed a LangChain-based SQL Agent to translate natural language queries into SQL statements and retrieve  structured skill demand and supply data from relational databases. 
-- Implemented a Retrieval-Augmented Generation (RAG) pipeline using LangChain, fetching relevant documents  from a vector store and generating context-aware responses via OpenAI’s LLMs. 
-- Integrated custom CrewAI tools to generate real-time visualizations—such as bar charts and pie charts—embedded directly within the chatbot interface. 
+- Designed, built, and deployed a complete **Multi-agent workflow** POC using **CrewAI with WebSocket** support for  real-time interactions, leveraging OpenAI’s GPT models for NLP tasks, and hosted the solution on AWS. 
+- Developed a **LangChain-based SQL Agent** to translate natural language queries into SQL statements and retrieve  structured skill demand and supply data from relational databases. 
+- Implemented a **Retrieval-Augmented Generation (RAG)** pipeline using LangChain, fetching relevant documents  from a vector store and generating context-aware responses via OpenAI’s LLMs. 
+- Integrated custom **CrewAI tools** to generate real-time visualizations—such as bar charts and pie charts—embedded directly within the chatbot interface. 
 
 **🛠 Tech Stack:**  AWS EC2, CrewAI, LangChain SQL Agent, LangChain RAG, OpenAI (Chat Models), Pyplot/Plotly, PDF Report Generation, WebSocket, FastAPI,Milvus, S3
 
@@ -94,7 +102,7 @@ signatures.
 
 ---
 
-### 🧠 Healthcare Diagnostics & Image Analysis
+### 🧠 Healthcare Diagnostics & Image Solutions
   [Live Website Link](https://hospitals.aku.edu/Pages/default.aspx)  
 - Optimized **spatial attention in CBAM** with kernel factorization to enhance extraction of local sparse structures.  
 - Enhanced **coordinate attention** aligned with Connected Component Analysis (CCA) patching to improve central pixel feature extraction.  
