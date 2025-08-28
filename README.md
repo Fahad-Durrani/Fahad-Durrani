@@ -143,8 +143,6 @@ signatures.
 | **MS Data Science**      | National University of Computer and Emerging Sciences (FAST), Islamabad  | 3.96 | 2021–2024 |
 | **BS Electronics Eng.**  | COMSATS University                                                       | 3.09 | 2013–2017 |
 
----
-
 <hr />
 
 <h2>📑 Research Papers</h2>
@@ -155,7 +153,7 @@ signatures.
     <a href="https://ieeexplore.ieee.org/document/8338634" target="_blank" rel="noopener">
       SCADA &amp; PLC based fully automated pneumatic cutting machine: A test bench for industry and laboratory
     </a>
-    <span> — IEEE.</span>
+    <span> — IEEE</span>
   </li>
 
   <li>
@@ -163,11 +161,11 @@ signatures.
     <a href="https://www.academia.edu/33228236/Design_and_Implementation_of_Smart_Fault_Detection_System_for_Industrial_Power_House_using_PLC_and_SCADA?email_work_card=view-paper" target="_blank" rel="noopener">
       Design and Implementation of Smart Fault Detection System for Industrial Power House using PLC and SCADA
     </a>
-    <span> — Academia.edu.</span>
+    <span> — Academia.edu</span>
   </li>
 </ul>
 
----
+<hr />
 
 ## 📜 Certificates  
 
