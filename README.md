@@ -178,7 +178,6 @@ signatures.
   </p>
 
 </details>
-
 ---
 
 ## 🛠️ Skills
