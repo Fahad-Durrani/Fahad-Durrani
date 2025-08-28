@@ -88,12 +88,20 @@ AI Engineer with 3.6+ years of experience designing matching engines, recommenda
 
 ---
 
-### 🧠 Medical Imaging & Diagnostics  
-- Optimized **attention mechanisms (CBAM, coordinate attention)** for brain tumor segmentation.  
-- Built a **3.5M parameter deep learning model** with kernel factorization for medical imaging tasks.  
-- Developed **OCR + survival prediction system** for medical prescriptions using **ChromaDB + OpenAI LLM**.  
-- 📌 *Stack:* PyTorch, TensorFlow, YOLO, ChromaDB, LamaIndex, MySQL, WandB, PowerBI  
+### 🧠 Healthcare Diagnostics & Image Analysis
+  [Live Website Link](https://hospitals.aku.edu/Pages/default.aspx)  
+- Optimized **spatial attention in CBAM** with kernel factorization to enhance extraction of local sparse structures.  
+- Enhanced **coordinate attention** aligned with Connected Component Analysis (CCA) patching to improve central pixel feature extraction.  
+- Fused **multiple attention mechanisms** to boost segmentation accuracy for complex brain tumor images.  
+- Designed a **3.5M parameter deep learning model** with kernel factorization, mitigating overfitting in low-sparse structure classes and validated through cross-validation on diverse datasets.  
+- Analyzed **gradient flow across network configurations** to ensure meaningful feature learning.  
+- Automated annotation of clustered labels in the **BRATS dataset** using CCA, improving labeling efficiency.  
+- Utilized a **YOLO-based pipeline** for accurate classification of tumor slices.  
+- Conducted dataset analysis (pixel distribution, view-wise structures) with **PowerBI** and implemented robust data cleaning pipelines.  
+- Predicted **patient survival** by combining radiomic features with deep learning & ensemble models (XGBoost, Random Forest, Decision Trees).  
+- Built an **end-to-end OCR system** for medical prescriptions using **ChromaDB, LamaIndex, MySQL, and OpenAI LLM**, enabling natural language querying.  
 
+**🛠 Tech Stack:** Python, PyTorch/TensorFlow, Hugging Face,
 ---
 
 ## 🛠️ Skills
@@ -111,22 +119,27 @@ AI Engineer with 3.6+ years of experience designing matching engines, recommenda
 | **Other Concepts** | n8n, Agile methodologies, FastAPI, Webhooks, Pydantic, Logging, Enums, Pooling, Jira |
 
 ---
-
 ## 🎓 Education  
-- **MS Data Science** –  National University of Computer and Emerging Sciences (FAST), Islamabad  (CGPA: 3.96) *(2021–2024)*  
-- **BS Electronics Engineering** – COMSATS University (CGPA: 3.09) *(2013–2017)*  
+
+| Degree                  | Institution                                                               | CGPA | Duration   |
+|--------------------------|---------------------------------------------------------------------------|------|------------|
+| **MS Data Science**      | National University of Computer and Emerging Sciences (FAST), Islamabad  | 3.96 | 2021–2024 |
+| **BS Electronics Eng.**  | COMSATS University                                                       | 3.09 | 2013–2017 |
 
 ---
 
 ## 📜 Certificates  
-- LLMOps – Duke University (Coursera)  
-- MLOps – DeepLearning.AI (Coursera)  
-- NLP Specialization – DeepLearning.AI (Coursera)  
-- Generative AI with LLMs – DeepLearning.AI (Coursera)  
-- Deep Learning Specialization – DeepLearning.AI (Coursera)  
-- ML Specialization – Stanford & DeepLearning.AI (Coursera)  
-- Recommender Systems – Udemy  
-- Data Analysis with R – Duke University (Coursera)  
+
+| Certificate                     | Issued By           | Platform   |
+|---------------------------------|---------------------|------------|
+| **LLMOps**                      | Duke University     | Coursera   |
+| **MLOps**                       | DeepLearning.AI     | Coursera   |
+| **NLP Specialization**          | DeepLearning.AI     | Coursera   |
+| **Generative AI with LLMs**     | DeepLearning.AI     | Coursera   |
+| **Deep Learning Specialization**| DeepLearning.AI     | Coursera   |
+| **ML Specialization**           | Stanford & DeepLearning.AI | Coursera |
+| **Recommender Systems**         | —                   | Udemy      |
+| **Data Analysis with R**        | Duke University     | Coursera   |
 
 ---
 ✨ Always open to collaborations on **AI, NLP, RAG, and MLOps projects**.
