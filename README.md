@@ -25,6 +25,7 @@ and AWS**.
     <img src="https://drive.google.com/uc?export=view&id=1-LHZ82axYW38mpG8Z45hU2cJP2CGbc7q" width="500" />
   </p>
 </details>
+
 ---
 
 ### 📝 Applicant Tracking System (ATS) – Matching Algorithm  
@@ -91,6 +92,7 @@ signatures.
     <img src="https://drive.google.com/uc?export=view&id=1c4ISwCFwdGg2op_1YqBoWkgkVOAw6EF-" width="600" />
   </p>
 </details>
+
 ---
 
 ## 🍽️ Food Recommendation System  
