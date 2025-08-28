@@ -214,15 +214,16 @@ signatures.
 
 | Certificate                     | Issued By           | Platform   |
 |---------------------------------|---------------------|------------|
-| **Introduction to langraph**    | Langraph            | Langcain Academy   |
 | **LLMOps**                      | Duke University     | Coursera   |
 | **MLOps**                       | DeepLearning.AI     | Coursera   |
 | **NLP Specialization**          | DeepLearning.AI     | Coursera   |
 | **Generative AI with LLMs**     | DeepLearning.AI     | Coursera   |
 | **Deep Learning Specialization**| DeepLearning.AI     | Coursera   |
-| **ML Specialization**           | Stanford & DeepLearning.AI | Coursera |
+| **Machine Learning Specialization**           | Stanford & DeepLearning.AI | Coursera |
 | **Recommender Systems**         | —                   | Udemy      |
 | **Data Analysis with R**        | Duke University     | Coursera   |
+| **DeepLearning.AI TensorFlow Developer**        | Duke University     | Coursera   |
+| **Introduction to langraph**    | Langraph            | Langcain Academy   |
 
 ---
 ✨ Always open to collaborations on **AI, NLP, RAG, and MLOps projects**.
