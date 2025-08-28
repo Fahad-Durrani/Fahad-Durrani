@@ -6,8 +6,6 @@
 AI Engineer with 3.5+ years of experience designing **matching engines, recommendation systems, and NLP solutions including OCR**. Proficient in **Agentic workflows** and deploying models using **MLOps across Azure 
 and AWS**. 
 
----
-
 ## 🏆 Successfully Delivered Projects
 
 ### 🤖 Multi-Agent (Langraph) Hiring & Onboarding System
