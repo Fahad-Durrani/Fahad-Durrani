@@ -166,7 +166,9 @@ signatures.
     <span> — Academia.edu.</span>
   </li>
 </ul>
+
 ---
+
 ## 📜 Certificates  
 
 | Certificate                     | Issued By           | Platform   |
