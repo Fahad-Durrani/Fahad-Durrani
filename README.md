@@ -19,6 +19,14 @@ and AWS**.
 - Deployed on Azure as a microservice with observability, logging, and traceability.
 
 **🛠 Tech Stack:** Langraph, MCP, BAckend APIS, Fuzz logic, Azure Blob Storage, WebSocket,Docker
+
+<details>
+  <summary><b><u>📸 Click to view Screenshot</u></b></summary>
+
+  <p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1-LHZ82axYW38mpG8Z45hU2cJP2CGbc7q" width="500" />
+  </p>
+</details>
 ---
 
 ### 📝 Applicant Tracking System (ATS) – Matching Algorithm  
