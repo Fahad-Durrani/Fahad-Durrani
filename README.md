@@ -2,12 +2,13 @@
 
 📍 Lahore, Pakistan  
 📧 fahaddurrani866@gmail.com  
-🔗 [LinkedIn](http://www.linkedin.com/in/fahaddurrani) | [GitHub](https://github.com/FahadDurrani866)
+🔗 [LinkedIn](http://www.linkedin.com/in/fahaddurrani) |
 
 ---
 
 ## 💡 About Me
-AI Engineer with 3.6+ years of experience designing matching engines, recommendation systems, OCR solutions, and NLP pipelines. Proficient in agentic workflows, generative AI, and deploying models with MLOps practices on **Azure** and **AWS**. Skilled in building production-ready AI systems, vector databases, RAG pipelines, and custom model fine-tuning.
+AI Engineer with 3.5+ years of experience designing **matching engines, recommendation systems, and NLP solutions including OCR**. Proficient in **Agentic workflows** and deploying models using **MLOps across Azure 
+and AWS**. 
 
 ---
 
@@ -101,7 +102,8 @@ AI Engineer with 3.6+ years of experience designing matching engines, recommenda
 - Predicted **patient survival** by combining radiomic features with deep learning & ensemble models (XGBoost, Random Forest, Decision Trees).  
 - Built an **end-to-end OCR system** for medical prescriptions using **ChromaDB, LamaIndex, MySQL, and OpenAI LLM**, enabling natural language querying.  
 
-**🛠 Tech Stack:** Python, PyTorch/TensorFlow, Hugging Face,
+**🛠 Tech Stack:** Python, PyTorch/TensorFlow, Model Training and Fine-tuning, YOLO, PowerBI, Pandas, NumPy, Plotly, XGBoost, Random Forest, Decision Trees, ChromaDB, LamaIndex, MySQL, OpenAI LLM, Weights & Biases (WandB), Research Analysis 
+
 ---
 
 ## 🛠️ Skills
