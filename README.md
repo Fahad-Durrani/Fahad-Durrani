@@ -1,11 +1,9 @@
 ## **Machine Learning Engineer | MS Data Science (AI Major) | GenAI | AI Agents | MLOps | Recommendation & Matching Systems**
-
 📍 Lahore, Pakistan  
 📧 fahaddurrani866@gmail.com  
 🔗 [LinkedIn](http://www.linkedin.com/in/fahaddurrani) |
 
 ---
-
 ## 💡 About Me
 AI Engineer with 3.5+ years of experience designing **matching engines, recommendation systems, and NLP solutions including OCR**. Proficient in **Agentic workflows** and deploying models using **MLOps across Azure 
 and AWS**. 
@@ -14,7 +12,8 @@ and AWS**.
 
 ## 🚀 Featured Projects
 
-###  Multi-Agent (Langraph) Hiring & Onboarding System 
+###  Multi-Agent (Langraph) Hiring & Onboarding System
+[Live Website Link](https://www.mubadala.com/)
 - Built a **LangGraph MCP framework** with 10+ role-based agents automating role definition, candidate evaluation, and onboarding. 
 - Integrated action execution, process analytics, and conversational memory for an end-to-end autonomous hiring pipeline.
 - Deployed on Azure as a microservice with observability, logging, and traceability.
@@ -22,6 +21,7 @@ and AWS**.
 ---
 
 ### 📝 Applicant Tracking System (ATS) – Matching Algorithm  
+[Live Website Link](https://www.mubadala.com/)
 - Co-developed an end-to-end ATS supporting **Experienced, Graduate, and Intern hiring workflows**. 
 - Authored the complete **Business Requirements Document (BRD)** to define project scope, features, and stakeholder expectations, ensuring strong client engagement and incorporating recruiter feedback to enhance results throughout the process. 
 - Designed and implemented a pipeline to **parse CVs and job descriptions, store structured information in PostgreSQL**, and perform advanced candidate-job matching. 
@@ -32,19 +32,21 @@ and AWS**.
 - Designed and integrated **AI-driven candidate–job matching summaries and scoring dashboards**, ensuring clarity across all recruitment stages.
 - Collaborated **cross-functionally with UI/UX, backend, and engineering teams** to enable seamless data processing and system integration.
 - AI-powered **top job recommendations for candidates** and **JD-to-candidate matching pipelines**, improving recruiter efficiency and placement accuracy. 
+
 **🛠 Tech Stack:**  Azure Document Intelligence, Azure OpenAI, Hugging Face Transformers, Milvus Vector DB, Azure Blob Storage, Azure Key Vault, Azure Machine Learning (model monitoring), Azure Monitor, Python, PyTorch Serve (for 
 embedding models), PostgreSQL, spaCy, NLTK, Docker, FastAPI, Webhooks,pooling 
 
 ---
 
 ### 📄 Document OCR Pipeline  
+[Live Website Link](https://www.mubadala.com/) 
 - Prepared and labeled diverse datasets for **fine-tuning Azure Custom Extraction and Custom Vision models**, ensuring high precision, recall, and broad coverage across real-world document types. 
 - **Fine-tuned Azure Custom Vision models for image-based object detection tasks** such as stamps, logos, and 
 signatures. 
 - **Fine-tuned Azure Document Intelligence Custom Models** to extract specific key-value fields from structured and semi-structured documents, tailored to business needs. 
 - Leveraged **Azure Document Intelligence Prebuilt Models** (e.g., Read, Layout, Identity Document) to extract text, tables, structures, and named entities from common document types. 
 - Built a **document ingestion pipeline** for candidate uploads, managing image size validation, format standardization, and preprocessing to ensure optimal input quality. 
-- Integrated both prebuilt and custom models into a scalable, **end-to-end OCR pipeline** using the Azure SDK, and deployed it on Microsoft Azure using a **containerized microservices architecture** for production use. 
+- Integrated both prebuilt and custom models into a scalable, **end-to-end OCR pipeline for 17 + documents** using the Azure SDK, and deployed it on Microsoft Azure using a **containerized microservices architecture** for production use. 
 
 **🛠 Tech Stack:** : Azure Document Intelligence, Azure Custom Vision, Azure SDK, Azure OCR Services, Microsoft Azure, Python, Azure Blob Storage, PostgreSQL, pdf2image, PyMuPDF (fitz), Pillow, OpenCV, FastAPI, Pydantic, Enums 
 
