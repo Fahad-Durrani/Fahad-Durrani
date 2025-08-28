@@ -30,10 +30,15 @@ and AWS**.
 ---
 
 ### 📄 Document OCR Pipeline  
-- Fine-tuned **Azure Custom Vision** and **Azure Document Intelligence** models for extracting structured and semi-structured document fields.  
-- Built scalable ingestion + preprocessing pipelines for candidate uploads.  
-- Deployed on **Azure** with a microservices architecture.  
-**🛠 Tech Stack:** Azure Document Intelligence, Azure Custom Vision, PyMuPDF, OpenCV, PostgreSQL, FastAPI  
+- Prepared and labeled diverse datasets for **fine-tuning Azure Custom Extraction and Custom Vision models**, ensuring high precision, recall, and broad coverage across real-world document types. 
+- **Fine-tuned Azure Custom Vision models for image-based object detection tasks** such as stamps, logos, and 
+signatures. 
+- **Fine-tuned Azure Document Intelligence Custom Models** to extract specific key-value fields from structured and semi-structured documents, tailored to business needs. 
+- Leveraged **Azure Document Intelligence Prebuilt Models** (e.g., Read, Layout, Identity Document) to extract text, tables, structures, and named entities from common document types. 
+- Built a **document ingestion pipeline for candidate uploads, managing image size validation, format standardization, and preprocessing to ensure optimal input quality. 
+- Integrated both prebuilt and custom models into a scalable, **end-to-end OCR pipeline** using the Azure SDK, and deployed it on Microsoft Azure using a **containerized microservices architecture** for production use. 
+
+**🛠 Tech Stack:** : Azure Document Intelligence, Azure Custom Vision, Azure SDK, Azure OCR Services, Microsoft Azure, Python, Azure Blob Storage, PostgreSQL, pdf2image, PyMuPDF (fitz), Pillow, OpenCV, FastAPI, Pydantic, Enums 
 
 ---
 
