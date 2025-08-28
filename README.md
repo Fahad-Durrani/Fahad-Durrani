@@ -10,7 +10,7 @@ and AWS**.
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Successfully Delivered Projects
 
 ###  Multi-Agent (Langraph) Hiring & Onboarding System
 [Live Website Link](https://www.mubadala.com/)
@@ -145,6 +145,28 @@ signatures.
 
 ---
 
+<hr />
+
+<h2>📑 Research Papers</h2>
+
+<ul>
+  <li>
+    <strong>Paper 1:</strong>
+    <a href="https://ieeexplore.ieee.org/document/8338634" target="_blank" rel="noopener">
+      SCADA &amp; PLC based fully automated pneumatic cutting machine: A test bench for industry and laboratory
+    </a>
+    <span> — IEEE.</span>
+  </li>
+
+  <li>
+    <strong>Paper 2:</strong>
+    <a href="https://www.academia.edu/33228236/Design_and_Implementation_of_Smart_Fault_Detection_System_for_Industrial_Power_House_using_PLC_and_SCADA?email_work_card=view-paper" target="_blank" rel="noopener">
+      Design and Implementation of Smart Fault Detection System for Industrial Power House using PLC and SCADA
+    </a>
+    <span> — Academia.edu.</span>
+  </li>
+</ul>
+---
 ## 📜 Certificates  
 
 | Certificate                     | Issued By           | Platform   |
