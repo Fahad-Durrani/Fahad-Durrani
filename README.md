@@ -37,6 +37,15 @@ and AWS**.
 **🛠 Tech Stack:**  Azure Document Intelligence, Azure OpenAI, Hugging Face Transformers, Milvus Vector DB, Azure Blob Storage, Azure Key Vault, Azure Machine Learning (model monitoring), Azure Monitor, Python, PyTorch Serve (for 
 embedding models), PostgreSQL, spaCy, NLTK, Docker, FastAPI, Webhooks,pooling 
 
+<details>
+  <summary><b><u>📸 Click to view Screenshots</u></b></summary>
+
+  <p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1ufscR7UVbz3blAkkRwlF8qvT6je-o5HE" width="400" />
+    <img src="https://drive.google.com/uc?export=view&id=1hJrqEuhPYbyFUVFo9DbS_gqVE9_WmiwR" width="400" />
+  </p>
+</details>
+
 ---
 
 ### 📄 Document OCR Pipeline  
