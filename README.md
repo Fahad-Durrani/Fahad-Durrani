@@ -54,8 +54,7 @@ embedding models), PostgreSQL, spaCy, NLTK, Docker, FastAPI, Webhooks,pooling
 
   <!-- Third row (folder images, add more IDs if needed) -->
   <p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=YOUR_IMAGE_ID_1" width="400" />
-    <img src="https://drive.google.com/uc?export=view&id=YOUR_IMAGE_ID_2" width="400" />
+    <img src="https://drive.google.com/file/d/1bYS-7KYDoFpB_3qUUPf7uGz8e5EeYQEn/view?usp=sharing" width="400" />
   </p>
 </details>
 
