@@ -40,22 +40,23 @@ embedding models), PostgreSQL, spaCy, NLTK, Docker, FastAPI, Webhooks,pooling
 <details>
   <summary><b><u>📸 Click to view Screenshots</u></b></summary>
 
-  <!-- First row -->
   <p align="center">
+    <!-- Row 1 (2 images side by side) -->
     <img src="https://drive.google.com/uc?export=view&id=1ufscR7UVbz3blAkkRwlF8qvT6je-o5HE" width="400" />
     <img src="https://drive.google.com/uc?export=view&id=1hJrqEuhPYbyFUVFo9DbS_gqVE9_WmiwR" width="400" />
   </p>
 
-  <!-- Second row -->
   <p align="center">
+    <!-- Row 2 (2 images side by side) -->
     <img src="https://drive.google.com/uc?export=view&id=1trElOIgg4UJ43SYfFD7QiHXMC_QU7OE0" width="400" />
     <img src="https://drive.google.com/uc?export=view&id=1yLg57K29MLAO1k4ncamNmHJwXtxibD__" width="400" />
   </p>
 
-  <!-- Third row (folder images, add more IDs if needed) -->
   <p align="center">
-    <img src="https://drive.google.com/file/d/1bYS-7KYDoFpB_3qUUPf7uGz8e5EeYQEn/view?usp=sharing" width="400" />
+    <!-- Row 3 (single image centered) -->
+    <img src="https://drive.google.com/uc?export=view&id=1bYS-7KYDoFpB_3qUUPf7uGz8e5EeYQEn" width="500" />
   </p>
+
 </details>
 
 ---
