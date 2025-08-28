@@ -10,7 +10,7 @@ and AWS**.
 
 ## 🏆 Successfully Delivered Projects
 
-###  Multi-Agent (Langraph) Hiring & Onboarding System
+### 🤖 Multi-Agent (Langraph) Hiring & Onboarding System
 [Live Website Link](https://www.mubadala.com/)
 - Built a **LangGraph MCP framework** with 10+ role-based agents automating role definition, candidate evaluation, and onboarding. 
 - Integrated action execution, process analytics, and conversational memory for an end-to-end autonomous hiring pipeline.
