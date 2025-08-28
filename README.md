@@ -162,6 +162,23 @@ signatures.
 
 **🛠 Tech Stack:** Python, PyTorch/TensorFlow, Model Training and Fine-tuning, YOLO, PowerBI, Pandas, NumPy, Plotly, XGBoost, Random Forest, Decision Trees, ChromaDB, LamaIndex, MySQL, OpenAI LLM, Weights & Biases (WandB), Research Analysis 
 
+<details>
+  <summary><b><u>📸 Click to view Screenshots</u></b></summary>
+
+  <p align="center">
+    <!-- Row 1 (2 images side by side) -->
+    <img src="https://drive.google.com/uc?export=view&id=1-LHZ82axYW38mpG8Z45hU2cJP2CGbc7q" width="400" />
+    <img src="https://drive.google.com/uc?export=view&id=PUT_NEXT_IMAGE_ID_HERE" width="400" />
+  </p>
+
+  <p align="center">
+    <!-- Row 2 (2 images side by side) -->
+    <img src="https://drive.google.com/uc?export=view&id=PUT_NEXT_IMAGE_ID_HERE" width="400" />
+    <img src="https://drive.google.com/uc?export=view&id=PUT_NEXT_IMAGE_ID_HERE" width="400" />
+  </p>
+
+</details>
+
 ---
 
 ## 🛠️ Skills
