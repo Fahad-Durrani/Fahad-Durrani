@@ -55,10 +55,13 @@ signatures.
   <summary><b><u>📸 Click to view Screenshots</u></b></summary>
 
   <p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=13Y_IEgxhm8ryBsK3Qq4gqKJVGi7yaif1" width="400" />
-    <img src="https://drive.google.com/uc?export=view&id=1MMhH29lBEAuHUoxdjdUkw1D73m9dnHF1" width="400" />
+    <img src="https://drive.google.com/uc?export=view&id=18MfxTNKJZwY2_doGdhWo83BZgcRlYKeD" width="400" />
+    <img src="https://drive.google.com/uc?export=view&id=1FcntuHASPcEV7TclqGavzTXe0QB4ZEkT" width="400" />
   </p>
 
+  <p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1c4ISwCFwdGg2op_1YqBoWkgkVOAw6EF-" width="600" />
+  </p>
 </details>
 ---
 
