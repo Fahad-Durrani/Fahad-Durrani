@@ -17,6 +17,7 @@ and AWS**.
 - Built a **LangGraph MCP framework** with 10+ role-based agents automating role definition, candidate evaluation, and onboarding. 
 - Integrated action execution, process analytics, and conversational memory for an end-to-end autonomous hiring pipeline.
 - Deployed on Azure as a microservice with observability, logging, and traceability.
+
 **🛠 Tech Stack:** Langraph, MCP, BAckend APIS, Fuzz logic, Azure Blob Storage, WebSocket,Docker
 ---
 
@@ -50,6 +51,15 @@ signatures.
 
 **🛠 Tech Stack:** : Azure Document Intelligence, Azure Custom Vision, Azure SDK, Azure OCR Services, Microsoft Azure, Python, Azure Blob Storage, PostgreSQL, pdf2image, PyMuPDF (fitz), Pillow, OpenCV, FastAPI, Pydantic, Enums 
 
+<details>
+  <summary><b><u>📸 Click to view Screenshots</u></b></summary>
+
+  <p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=13Y_IEgxhm8ryBsK3Qq4gqKJVGi7yaif1" width="400" />
+    <img src="https://drive.google.com/uc?export=view&id=1MMhH29lBEAuHUoxdjdUkw1D73m9dnHF1" width="400" />
+  </p>
+
+</details>
 ---
 
 ## 🍽️ Food Recommendation System  
