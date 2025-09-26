@@ -1,5 +1,5 @@
 ## **Machine Learning Engineer | MS Data Science (AI Major) | GenAI | AI Agents | MLOps | Recommendation & Matching Systems**
-📍 Lahore, Pakistan  
+📍 Islamabad, Pakistan  
 📧 fahaddurrani866@gmail.com  
 🔗 [LinkedIn](http://www.linkedin.com/in/fahaddurrani) 
 ## 💡 About Me
