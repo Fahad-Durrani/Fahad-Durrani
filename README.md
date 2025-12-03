@@ -3,7 +3,7 @@
 📧 fahaddurrani866@gmail.com  
 🔗 [LinkedIn](http://www.linkedin.com/in/fahaddurrani) 
 ## 💡 About Me
-AI Engineer with 3.5+ years of experience designing **matching engines, recommendation systems, and NLP solutions including OCR**. Proficient in **Agentic workflows** and deploying models using **MLOps across Azure 
+AI Engineer with 3.9+ years of experience designing **matching engines, recommendation systems, and NLP solutions including OCR**. Proficient in **Agentic workflows** and deploying models using **MLOps across Azure 
 and AWS**. 
 
 ## 🏆 Successfully Delivered Projects
