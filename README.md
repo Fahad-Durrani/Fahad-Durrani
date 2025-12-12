@@ -1,6 +1,5 @@
 ## **Machine Learning Engineer | MS Data Science (AI Major) | GenAI | AI Agents | MLOps | Recommendation & Matching Systems**
 📍 Islamabad, Pakistan  
-📧 fahaddurrani866@gmail.com  
 🔗 [LinkedIn](http://www.linkedin.com/in/fahaddurrani) 
 ## 💡 About Me
 AI Engineer with 3.9+ years of experience designing **matching engines, recommendation systems, and NLP solutions including OCR**. Proficient in **Agentic workflows** and deploying models using **MLOps across Azure 
