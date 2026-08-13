@@ -1,8 +1,8 @@
-## **Machine Learning Engineer | MS Data Science (AI Major) | GenAI | AI Agents | MLOps | Recommendation & Matching Systems**
+## **Senior AI Engineer | Architecting & Building Production AI 🚀 | GenAI · Multimodal RAG · Multi-Agent · Recommendation Engine · On-Device AI | MLOps · GCP · Azure · AWS | 5+ yrs | MS Data Science (AI) – FAST NUCES**
 📍 Islamabad, Pakistan  
 🔗 [LinkedIn](http://www.linkedin.com/in/fahaddurrani) 
 ## 💡 About Me
-AI Engineer with around 4 years of experience designing **matching engines, recommendation systems, and NLP solutions including OCR**. Proficient in **Agentic workflows** and deploying models using **MLOps across Azure 
+AI Engineer with around 5 years of experience designing **matching engines, recommendation systems, and NLP solutions including OCR**. Proficient in **Agentic workflows** and deploying models using **MLOps across Azure 
 and AWS**. 
 
 ## 🏆 Successfully Delivered Projects
