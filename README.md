@@ -19,7 +19,9 @@ Senior AI Engineer with nearly 5 years leading design and delivery of production
 
 ---
 
-<h1 align="center">💼 &nbsp;Experience</h1>
+<div align="center">
+<h1 style="border: none;">💼 &nbsp;Experience</h1>
+</div>
 
 ---
 
