@@ -22,10 +22,11 @@ Nearly 5 years leading design and delivery of production AI systems across **Gen
 </table>
 
 
----
-<h3 align="center">💼 &nbsp;&nbsp;&nbsp;Experience&nbsp;&nbsp;&nbsp;</h3>
+<hr>
 
----
+<p align="center"><strong>💼 Experience</strong></p>
+
+<hr>
 
 
 
