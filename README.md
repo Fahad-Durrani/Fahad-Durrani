@@ -11,8 +11,9 @@ Senior AI Engineer with nearly 5 years leading design and delivery of production
 
 ## 💼 Experience
 
-### 🏢 Senior AI Engineer — 9D Technologies
-📍 Hybrid (Islamabad, Pakistan) · 📅 February 2026 – Present
+### 🏢 Senior AI Engineer 
+### 9D Technologies
+##📍 Hybrid (Islamabad, Pakistan) · 📅 February 2026 – Present
 
 **Product:** [XeNo AI ↗](https://play.google.com/store/apps/details?id=filemanager.ai.personnel.assistant) · **AI File Manager for Android & iOS** · **Client:** [Darwin Technology L.L.C ↗](https://darwintechnology.io/) (UAE)
 
