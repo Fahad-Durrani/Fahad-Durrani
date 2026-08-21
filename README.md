@@ -150,3 +150,13 @@ Enterprise platform combining AI-driven candidate-job matching, a role-based age
 - Deployed end-to-end on **AWS (EC2, S3)** with automated model refresh workflows and served embedding models via **PyTorch Serve**.
 
 **🛠 Tech Stack:** Python, MongoDB, AWS S3, AWS EC2, Hugging Face Transformers, PyTorch Serve, Pandas, Power BI, Google Maps APIs
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=12pHrsdx9YhJk9XKXfgpDsMB5SzS6qPl5" width="420" />
+  <img src="https://drive.google.com/uc?export=view&id=1BHOAWJJ9DcuoAzkPz-5BiYuPt4jz3ThH" width="420" />
+</p>
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=10T7pVQ8Dbgs9SE7Q_7OfdzVXETZvVoNl" width="420" />
+  <img src="https://drive.google.com/uc?export=view&id=1jcYDXVpGnuKOP1Q8VosgQjcKs6ZTqP8U" width="420" />
+</p>
