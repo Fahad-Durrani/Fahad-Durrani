@@ -223,7 +223,6 @@ Enterprise platform combining AI-driven candidate-job matching, a role-based age
   <img src="https://drive.google.com/uc?export=view&id=1-Yw2ykRJeJGvPCLaIpWz0vRvcyog-q8T" width="700" />
 </p>
 
----
 
 <hr>
 
@@ -231,7 +230,7 @@ Enterprise platform combining AI-driven candidate-job matching, a role-based age
 
 <hr>
 
----
+
 
 | Category | Skills |
 |----------|--------|
@@ -241,7 +240,7 @@ Enterprise platform combining AI-driven candidate-job matching, a role-based age
 | **Data & Backend** | Python, SQL, PostgreSQL, MongoDB, MySQL, Milvus, ChromaDB, FastAPI, WebSockets, Pydantic, Power BI |
 | **Tools** | Claude Code, Cursor, Git, Jira, Notion, Asana |
 
----
+
 
 <hr>
 
@@ -249,7 +248,7 @@ Enterprise platform combining AI-driven candidate-job matching, a role-based age
 
 <hr>
 
----
+
 
 | Degree | Institution | CGPA | Duration |
 |--------|-------------|------|----------|
@@ -265,7 +264,7 @@ Enterprise platform combining AI-driven candidate-job matching, a role-based age
 - **Paper 1:** <a href="https://ieeexplore.ieee.org/document/8338634" target="_blank" rel="noopener noreferrer">SCADA & PLC based fully automated pneumatic cutting machine: A test bench for industry and laboratory ➚</a> — IEEE
 - **Paper 2:** <a href="https://www.academia.edu/33228236/Design_and_Implementation_of_Smart_Fault_Detection_System_for_Industrial_Power_House_using_PLC_and_SCADA" target="_blank" rel="noopener noreferrer">Design and Implementation of Smart Fault Detection System for Industrial Power House using PLC and SCADA ➚</a> 
 
----
+
 
 <hr>
 
@@ -273,7 +272,7 @@ Enterprise platform combining AI-driven candidate-job matching, a role-based age
 
 <hr>
 
----
+
 
 | Certificate | Issued By | Platform |
 |-------------|-----------|----------|
