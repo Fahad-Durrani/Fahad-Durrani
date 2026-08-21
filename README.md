@@ -127,15 +127,15 @@ Enterprise platform combining AI-driven candidate-job matching, a role-based age
 - Integrated **action execution, process analytics,** and **conversational memory** with full observability, logging, and traceability; deployed on Azure as a microservice.
   
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1__MjT1DaDaqNOCuWjKyF8PRSicauGnR5" height="280" />
+  <img src="https://drive.google.com/uc?export=view&id=1__MjT1DaDaqNOCuWjKyF8PRSicauGnR5" width="450" height="300" />
   &nbsp;
-  <img src="https://drive.google.com/uc?export=view&id=1GftWn2ECfyXF3qFl0KOT5SnwC99H2KPt" height="280" />
+  <img src="https://drive.google.com/uc?export=view&id=1GftWn2ECfyXF3qFl0KOT5SnwC99H2KPt" width="450" height="300" />
 </p>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1TObYnsR7bOHbr9xYuRZ3xcLv7fheeRjz" height="280" />
+  <img src="https://drive.google.com/uc?export=view&id=1TObYnsR7bOHbr9xYuRZ3xcLv7fheeRjz" width="450" height="300" />
   &nbsp;
-  <img src="https://drive.google.com/uc?export=view&id=1cD9z0OSDCDyHNY7kzl9cieC84Kf-CuRy" height="280" />
+  <img src="https://drive.google.com/uc?export=view&id=1cD9z0OSDCDyHNY7kzl9cieC84Kf-CuRy" width="450" height="300" />
 </p>
 
 #### 📄 <ins> Document OCR Pipeline (Application Intake + Onboarding)</ins>
