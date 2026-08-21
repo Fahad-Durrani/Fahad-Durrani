@@ -1,5 +1,5 @@
-<h1 align="center">🎯 AI Engineering Portfolio</h1>
-<p align="center"><em>Turning AI ideas into production systems</em></p>
+<h1 align="center">AI Engineering Portfolio</h1>
+<p align="center"><em>From AI ideas to production systems</em></p>
 <table style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
 <td width="65%" valign="top" style="border: none;">
