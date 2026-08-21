@@ -28,7 +28,7 @@ Senior AI Engineer with nearly 5 years leading design and delivery of production
 📍 **Hybrid (Islamabad, Pakistan)** &nbsp;·&nbsp; 📅 **February 2026 – Present**
 
 ### Product: <a href="https://play.google.com/store/apps/details?id=filemanager.ai.personnel.assistant" target="_blank" rel="noopener noreferrer">XeNo AI ➚</a> · <ins>AI File Manager for Android & iOS</ins> · Client: <a href="https://play.google.com/store/apps/dev?id=7910378118912309421" target="_blank" rel="noopener noreferrer">Darwin Technology L.L.C ➚</a> (UAE) · 
-🎥 <a href="https://drive.google.com/file/d/11NagRPShB0j-ILU5i91y6vIcezTmETLe/view?usp=sharing" target="_blank" rel="noopener noreferrer">Watch Demo ➚</a>
+### 🎥 <a href="https://drive.google.com/file/d/11NagRPShB0j-ILU5i91y6vIcezTmETLe/view?usp=sharing" target="_blank" rel="noopener noreferrer">Watch Demo ➚</a>
 
 *Responsibilities/Solutions*
 - Cut multimodal **RAG cost by ~60%** by delivering the on-device inference stack (ONNX / CoreML) with **quantized embedding models** and on-device OCR (Google ML Kit / Apple Intelligence) across Android and iOS, powering search, chat, and Q&A over documents and images while keeping all data local.
