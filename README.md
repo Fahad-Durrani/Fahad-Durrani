@@ -1,8 +1,6 @@
-<h1 align="center">AI Engineering Portfolio</h1>
-<p align="center"><em>From AI ideas to production systems</em></p>
-<table style="border: none; border-collapse: collapse;">
-<tr style="border: none;">
-<td width="65%" valign="top" style="border: none;">
+<p align="center">
+  <img src="./assets/linkedin-banner.png" alt="Fahad Durrani — AI Engineering Portfolio" width="100%">
+</p>
 
 Nearly 5 years leading design and delivery of production AI systems across **GenAI, multi-agent frameworks, RAG, recommenders, and on-device AI**. Shipped products serving users across the **US, UAE, and Pakistan**, driving cost, latency, and quality trade-offs end-to-end from architecture through deployment on **Azure, AWS, and GCP**.
 
