@@ -160,3 +160,19 @@ Enterprise platform combining AI-driven candidate-job matching, a role-based age
   <img src="https://drive.google.com/uc?export=view&id=10T7pVQ8Dbgs9SE7Q_7OfdzVXETZvVoNl" width="420" />
   <img src="https://drive.google.com/uc?export=view&id=1jcYDXVpGnuKOP1Q8VosgQjcKs6ZTqP8U" width="420" />
 </p>
+
+---
+
+### 🏢 Machine Learning Engineer — Artificial Intelligence Diagnostic Lab
+📍 **On-Site (Islamabad, Pakistan)** &nbsp;·&nbsp; 📅 **Feb 2022 – Jan 2024**
+
+*Responsibilities/Solutions*
+
+#### Client: <a href="https://hospitals.aku.edu/Pages/default.aspx" target="_blank" rel="noopener noreferrer">AKUH ➚</a> · <ins>Medical Imaging & Clinical NLP</ins>
+
+- Designed a **compact 2D architecture achieving accuracy comparable to 3D models** on the **BRATS 2021** brain tumor segmentation benchmark, fused multiple attention mechanisms (**CBAM with kernel factorization**, coordinate attention aligned with Connected Component Analysis) into a **3.5M-parameter gradient-flow network**, validated via cross-validation across diverse medical datasets.
+- Automated tumor annotation on **hospital-provided imaging data** via Connected Component Analysis and a pre-trained **YOLO** for tumor-slice classification, significantly reducing manual labeling effort.
+- Prototyped an **early RAG-based clinical NLP system** using OCR, **ChromaDB, LlamaIndex, and OpenAI LLMs** over MySQL for natural-language querying of prescription data.
+- **Predicted patient survival** by combining radiomic features with deep learning and ensemble models (**XGBoost, Random Forest, Decision Trees**); visualized results in Power BI, Pandas, and Plotly.
+
+**🛠 Tech Stack:** Python, PyTorch, TensorFlow, YOLO, ChromaDB, LlamaIndex, OpenAI, XGBoost, Random Forest, MySQL, Weights & Biases, Pandas, NumPy, Plotly, Power BI
