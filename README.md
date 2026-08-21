@@ -16,7 +16,6 @@ Senior AI Engineer with nearly 5 years leading design and delivery of production
 </tr>
 </table>
 
----
 
 ---
 
@@ -24,7 +23,7 @@ Senior AI Engineer with nearly 5 years leading design and delivery of production
 
 ---
 
----
+
 
 ### 🏢 Senior AI Engineer — 9D Technologies
 📍 **Hybrid (Islamabad, Pakistan)** &nbsp;·&nbsp; 📅 **February 2026 – Present**
