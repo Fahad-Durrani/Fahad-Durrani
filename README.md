@@ -233,7 +233,7 @@ Enterprise platform combining AI-driven candidate-job matching, a role-based age
 
 
 
-|----------|--------|
+
 | **GenAI & Agents** | LLMs (OpenAI, Google Gemini), RAG, LangChain, LlamaIndex, LangGraph, CrewAI, MCP, text-to-SQL, PEFT (LoRA, Quantization), Fine-tuning |
 | **ML, DL & On-Device AI** | PyTorch, TensorFlow, Hugging Face Transformers, spaCy, NLTK, XGBoost, YOLO, Recommender Systems, NER, OCR — *On-device:* ONNX (Android), CoreML (iOS), ML Kit, Apple Intelligence, Model Quantization (FP16, INT8), Hybrid Retrieval (RRF) |
 | **Cloud & MLOps** | Azure (OpenAI, Doc Intelligence, Custom Vision, ML, Functions, ACI, Blob, Key Vault, Monitor), AWS (SageMaker, Bedrock, Lambda, EC2, S3), GCP (Cloud Run, Vertex AI, Firebase), Docker, GitHub Actions, MLflow, PyTorch Serve, CI/CD |
