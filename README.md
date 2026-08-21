@@ -1,4 +1,3 @@
-<h1>Fahad Durrani</h1>
 
 <h3>Senior AI Engineer | Architecting & Building Production AI 🚀 | GenAI · Multimodal RAG · Multi-Agent · Recommenders · On-Device AI | MLOps · GCP · Azure · AWS | 5 yrs | MS Data Science (AI) – FAST NUCES</h3>
 
