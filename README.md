@@ -12,7 +12,6 @@ Senior AI Engineer with nearly 5 years leading design and delivery of production
 
 📍 **Location:** Islamabad, Pakistan  
 📧 **Email:** fahaddurrani866@gmail.com  
-📞 **Phone:** +92 334 8666887  
 🔗 **LinkedIn:** [fahaddurrani](https://www.linkedin.com/in/fahaddurrani/)  
 💻 **GitHub:** [Fahad-Durrani](https://github.com/Fahad-Durrani)
 
