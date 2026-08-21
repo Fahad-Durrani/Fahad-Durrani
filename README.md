@@ -2,19 +2,6 @@
 <h3 align="center">Senior AI Engineer · Portfolio</h3>
 
 ---
-
-<table border="0">
-<tr>
-<td width="65%" valign="top">
-[your summary here]
-</td>
-<td width="35%" valign="top">
-[your contact info here]
-</td>
-</tr>
-</table>
-
-
 <table style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
 <td width="65%" valign="top" style="border: none;">
