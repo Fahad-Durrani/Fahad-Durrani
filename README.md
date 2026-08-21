@@ -1,12 +1,11 @@
 <p align="center">
   <img
-    src="https://drive.google.com/uc?export=view&id=1CwLSTuaYxcHn0q0lcH3PnrKa_v06A_Va"
+    src="https://drive.google.com/uc?export=view&id=1EMCZadxGfCdBvp-vpFXS3SFdG0gszlJy"
     alt="Fahad Durrani — From AI ideas to production systems"
     width="100%"
   />
 </p>
 
-<h1 align="center">AI Engineering Portfolio</h1>
 
 Nearly 5 years leading design and delivery of production AI systems across **GenAI, multi-agent frameworks, RAG, recommenders, and on-device AI**. Shipped products serving users across the **US, UAE, and Pakistan**, driving cost, latency, and quality trade-offs end-to-end from architecture through deployment on **Azure, AWS, and GCP**.
 
