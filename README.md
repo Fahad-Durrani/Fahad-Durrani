@@ -148,13 +148,15 @@ Enterprise platform combining AI-driven candidate-job matching, a role-based age
 **🛠 Tech Stack:** Azure OpenAI, Azure Document Intelligence, Azure Custom Vision, Azure SDK, Azure ML (model monitoring), Azure Monitor, Azure Blob Storage, Azure Key Vault, Milvus, PostgreSQL, Hugging Face Transformers, PyTorch Serve, spaCy, NLTK, LangGraph, MCP, LangChain (NL-to-SQL), FastAPI, WebSockets, Docker, pdf2image, PyMuPDF, Pillow, OpenCV, Pydantic, Python
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=18MfxTNKJZwY2_doGdhWo83BZgcRlYKeD" width="420" />
-  <img src="https://drive.google.com/uc?export=view&id=1sOJlHC9PfzcsbGxHOIbs6sTvVEsaKaKf" width="420" />
+  <img src="https://drive.google.com/uc?export=view&id=1UnhpQ4XNP_sPIdH0mpj4RIWkybuWHzYV" width="800" />
 </p>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1c4ISwCFwdGg2op_1YqBoWkgkVOAw6EF-" width="420" />
-  <img src="https://drive.google.com/uc?export=view&id=1FcntuHASPcEV7TclqGavzTXe0QB4ZEkT" width="420" />
+  <img src="https://drive.google.com/uc?export=view&id=1Z4HO3NkBqZMci6gugrFAxc6g2YQqXahc" width="800" />
+</p>
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=17ezftCF_3CI4E5VZ-sxZ91EvA9qzvEWf" width="800" />
 </p>
 
 ### Product: <a href="https://www.resthero.io/" target="_blank" rel="noopener noreferrer">RestHero ➚</a> · <ins>Multi-brand food recommendation SaaS platform</ins> · Client: RestHero (UAE)
