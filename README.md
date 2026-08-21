@@ -1,12 +1,25 @@
-## **Senior AI Engineer | Architecting & Building Production AI 🚀 | GenAI · Multimodal RAG · Multi-Agent · Recommenders · On-Device AI | MLOps · GCP · Azure · AWS | 5 yrs | MS Data Science (AI) – FAST NUCES**
+<h1>Fahad Durrani</h1>
 
-📍 Islamabad, Pakistan  
-🔗 [LinkedIn](https://www.linkedin.com/in/fahaddurrani/)
+<h3>Senior AI Engineer | Architecting & Building Production AI 🚀 | GenAI · Multimodal RAG · Multi-Agent · Recommenders · On-Device AI | MLOps · GCP · Azure · AWS | 5 yrs | MS Data Science (AI) – FAST NUCES</h3>
 
-## 💡 About Me
+<table>
+<tr>
+<td width="65%" valign="top">
 
 Senior AI Engineer with nearly 5 years leading design and delivery of production AI systems across **GenAI, multi-agent frameworks, RAG, recommenders, and on-device AI**. Shipped products serving users across the **US, UAE, and Pakistan**, driving cost, latency, and quality trade-offs end-to-end from architecture through deployment on **Azure, AWS, and GCP**.
 
+</td>
+<td width="35%" valign="top">
+
+📍 **Location:** Islamabad, Pakistan  
+📧 **Email:** fahaddurrani866@gmail.com  
+📞 **Phone:** +92 334 8666887  
+🔗 **LinkedIn:** [fahaddurrani](https://www.linkedin.com/in/fahaddurrani/)  
+💻 **GitHub:** [Fahad-Durrani](https://github.com/Fahad-Durrani)
+
+</td>
+</tr>
+</table>
 ---
 ## 💼 Experience
 ### 🏢 Senior AI Engineer — 9D Technologies
