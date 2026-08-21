@@ -19,7 +19,7 @@ Senior AI Engineer with nearly 5 years leading design and delivery of production
 ## 💼 Experience
 ### 🏢 Senior AI Engineer — 9D Technologies
 📍 **Hybrid (Islamabad, Pakistan)** &nbsp;·&nbsp; 📅 **February 2026 – Present**
-
+*Responsibilities/Solutions*
 **Product: [XeNo AI ➚](https://play.google.com/store/apps/details?id=filemanager.ai.personnel.assistant) · <ins>AI File Manager for Android & iOS</ins> · Client: [Darwin Technology L.L.C ➚](https://play.google.com/store/apps/dev?id=7910378118912309421) (UAE) · 🎥 [Watch Demo ➚](https://drive.google.com/file/d/11NagRPShB0j-ILU5i91y6vIcezTmETLe/view?usp=sharing)**
 
 - Cut multimodal **RAG cost by ~60%** by delivering the on-device inference stack (ONNX / CoreML) with **quantized embedding models** and on-device OCR (Google ML Kit / Apple Intelligence) across Android and iOS, powering search, chat, and Q&A over documents and images while keeping all data local.
