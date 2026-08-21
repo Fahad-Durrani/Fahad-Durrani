@@ -188,3 +188,5 @@ Enterprise platform combining AI-driven candidate-job matching, a role-based age
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1-Yw2ykRJeJGvPCLaIpWz0vRvcyog-q8T" width="700" />
 </p>
+
+
