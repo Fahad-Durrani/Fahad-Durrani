@@ -80,7 +80,7 @@ Senior AI Engineer with nearly 5 years leading design and delivery of production
 
 Enterprise platform combining AI-driven candidate-job matching, a role-based agentic layer for conversational access, and a document OCR pipeline spanning the full hiring and onboarding lifecycle.
 
-#### <ins>📝 Applicant Tracking System (ATS) — AI Matching & Scoring Engine</ins>
+#### 📝 <ins> Applicant Tracking System (ATS) — AI Matching & Scoring Engine</ins>
 
 - **Co-led development** of an end-to-end ATS supporting experienced, graduate, and intern hiring workflows; authored the **Business Requirements Document (BRD)** defining scope, features, and stakeholder expectations, incorporating **recruiter feedback** throughout.
 - Designed a full **CV/JD parsing and matching pipeline** covering parsing, skill extraction and standardization, functional experience mapping, career-level assignment, and education verification.
@@ -102,7 +102,7 @@ Enterprise platform combining AI-driven candidate-job matching, a role-based age
   <img src="https://drive.google.com/uc?export=view&id=1trElOIgg4UJ43SYfFD7QiHXMC_QU7OE0" width="280" />
 </p>
 
-#### <ins>🤖 Multi-Agent Layer (LangGraph + MCP)</ins>
+#### 🤖 <ins> Multi-Agent Layer (LangGraph + MCP)</ins>
 
 - Built a **role-based agentic layer over the entire platform**, a LangGraph MCP framework with **8 role-based agents** (recruiter, hiring manager, candidate & more), each scoped to that user role's UI and data permissions.
 - Designed a **hybrid tool-routing architecture** where each agent chose intelligently between two access modes, **frontend APIs** (for operational actions like candidate screening, approvals, status changes, and role definition, reusing its permission and audit layer) and **direct database** access via a LangChain NL-to-SQL agent (for complex analytics queries not covered by pre-built dashboards).
@@ -121,7 +121,7 @@ Enterprise platform combining AI-driven candidate-job matching, a role-based age
 </p>
 
 
-#### <ins>📄 Document OCR Pipeline (Application Intake + Onboarding)</ins>
+#### 📄 <ins> Document OCR Pipeline (Application Intake + Onboarding)</ins>
 
 - **Owned the document ingestion layer** spanning application intake (CVs, experience letters, educational and equivalency certificates) and onboarding (identity, compliance, and life-event documents), **15+ distinct document types including UAE-specific formats** like Emirates IDs and Thiqa cards, tailored to UAE regulatory requirements.
 - **Fine-tuned custom Azure models** for structured extraction and object detection, Azure Document Intelligence Custom Models for key–value fields (issue/expiry dates, IDs, attestation status, salary, nationality) and Azure Custom Vision Models for stamps, logos, signatures, and letterhead detection on experience letters and legal documents.
