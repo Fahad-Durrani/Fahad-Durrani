@@ -1,4 +1,4 @@
-> Senior AI Engineer with nearly 5 years leading design and delivery of production AI systems across **GenAI, multi-agent frameworks, RAG, recommenders, and on-device AI**. Shipped products serving users across the **US, UAE, and Pakistan**, driving cost, latency, and quality trade-offs end-to-end from architecture through deployment on **Azure, AWS, and GCP**.
+Senior AI Engineer with nearly 5 years leading design and delivery of production AI systems across **GenAI, multi-agent frameworks, RAG, recommenders, and on-device AI**. Shipped products serving users across the **US, UAE, and Pakistan**, driving cost, latency, and quality trade-offs end-to-end from architecture through deployment on **Azure, AWS, and GCP**.
 
 📍 **Location:** Islamabad, Pakistan &nbsp;·&nbsp; 📧 **Email:** fahaddurrani866@gmail.com &nbsp;·&nbsp; 📞 **Phone:** +92 334 8666887  
 🔗 **LinkedIn:** [fahaddurrani](https://www.linkedin.com/in/fahaddurrani/) &nbsp;·&nbsp; 💻 **GitHub:** [Fahad-Durrani](https://github.com/Fahad-Durrani)
