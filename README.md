@@ -68,7 +68,7 @@ Senior AI Engineer with nearly 5 years leading design and delivery of production
 
 *Responsibilities/Solutions*
 
-**Product: <a href="TAKAFO_URL" target="_blank" rel="noopener noreferrer">Takafo ➚</a> · <ins>AI-Powered Hiring Platform</ins> · Client: <a href="https://www.mubadala.com/" target="_blank" rel="noopener noreferrer">Mubadala ➚</a> (UAE)**
+***Product: <a href="TAKAFO_URL" target="_blank" rel="noopener noreferrer">Takafo ➚</a> · <ins>AI-Powered Hiring Platform</ins> · Client: <a href="https://www.mubadala.com/" target="_blank" rel="noopener noreferrer">Mubadala ➚</a> (UAE)***
 
 Enterprise platform combining AI-driven candidate-job matching, a role-based agentic layer for conversational access, and a document OCR pipeline spanning the full hiring and onboarding lifecycle.
 
