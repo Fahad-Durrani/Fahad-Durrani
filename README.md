@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Fahad Durrani</h1>
-<h3 align="center">Senior AI Engineer · Portfolio</h3>
+<h1 align="center">🎯 AI Engineering Portfolio</h1>
+<p align="center"><em>Building AI systems that ship to real users</em></p>
 
 ---
 <table style="border: none; border-collapse: collapse;">
