@@ -21,9 +21,11 @@ Nearly 5 years leading design and delivery of production AI systems across **Gen
 </tr>
 </table>
 
-<p align="center"><strong>💼 Experience</strong></p>
 <hr>
 
+<p align="center"><strong>💼 Experience</strong></p>
+
+<hr>
 
 
 ### 🏢 Senior AI Engineer — 9D Technologies
