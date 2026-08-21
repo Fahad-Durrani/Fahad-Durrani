@@ -20,7 +20,7 @@ Senior AI Engineer with nearly 5 years leading design and delivery of production
 ### 🏢 Senior AI Engineer — 9D Technologies
 📍 **Hybrid (Islamabad, Pakistan)** &nbsp;·&nbsp; 📅 **February 2026 – Present**
 
-**Product: [XeNo AI ➚](https://play.google.com/store/apps/details?id=filemanager.ai.personnel.assistant) · <ins>AI File Manager for Android & iOS</ins> · Client: [Darwin Technology L.L.C ➚](https://play.google.com/store/apps/dev?id=7910378118912309421) (UAE) · 🎥 [Watch Demo ➚](https://drive.google.com/file/d/11NagRPShB0j-ILU5i91y6vIcezTmETLe/view?usp=sharing)**
+### Product: <a href="https://play.google.com/store/apps/details?id=filemanager.ai.personnel.assistant" target="_blank" rel="noopener noreferrer">XeNo AI ➚</a> · <ins>AI File Manager for Android & iOS</ins> · Client: <a href="https://play.google.com/store/apps/dev?id=7910378118912309421" target="_blank" rel="noopener noreferrer">Darwin Technology L.L.C ➚</a> (UAE) · 🎥 <a href="https://drive.google.com/file/d/11NagRPShB0j-ILU5i91y6vIcezTmETLe/view?usp=sharing" target="_blank" rel="noopener noreferrer">Watch Demo ➚</a>
 
 *Responsibilities/Solutions*
 - Cut multimodal **RAG cost by ~60%** by delivering the on-device inference stack (ONNX / CoreML) with **quantized embedding models** and on-device OCR (Google ML Kit / Apple Intelligence) across Android and iOS, powering search, chat, and Q&A over documents and images while keeping all data local.
@@ -70,11 +70,11 @@ Senior AI Engineer with nearly 5 years leading design and delivery of production
 
 *Responsibilities/Solutions*
 
-#### Product: <a href="https://takafo.ai/" target="_blank" rel="noopener noreferrer">Takafo ➚</a> · <ins>AI-Powered Hiring Platform</ins> · Client: <a href="https://www.mubadala.com/" target="_blank" rel="noopener noreferrer">Mubadala ➚</a> (UAE)
+### Product: <a href="https://takafo.ai/" target="_blank" rel="noopener noreferrer">Takafo ➚</a> · <ins>AI-Powered Hiring Platform</ins> · Client: <a href="https://www.mubadala.com/" target="_blank" rel="noopener noreferrer">Mubadala ➚</a> (UAE)
 
 Enterprise platform combining AI-driven candidate-job matching, a role-based agentic layer for conversational access, and a document OCR pipeline spanning the full hiring and onboarding lifecycle.
 
-### <ins>📝 Applicant Tracking System (ATS) — AI Matching & Scoring Engine</ins>
+#### <ins>📝 Applicant Tracking System (ATS) — AI Matching & Scoring Engine</ins>
 
 - **Co-led development** of an end-to-end ATS supporting experienced, graduate, and intern hiring workflows; authored the **Business Requirements Document (BRD)** defining scope, features, and stakeholder expectations, incorporating **recruiter feedback** throughout.
 - Designed a full **CV/JD parsing and matching pipeline** covering parsing, skill extraction and standardization, functional experience mapping, career-level assignment, and education verification.
@@ -85,7 +85,7 @@ Enterprise platform combining AI-driven candidate-job matching, a role-based age
 - **Cut inference costs by ~40%** by designing first-level and second-level candidate-job matching tiers that reduced reliance on expensive generative models.
 - Managed data with **PostgreSQL** and shipped the full ATS as containerized microservices on Azure with scalability, reliability, and secure remote access.
 
-### <ins>🤖 Multi-Agent Layer (LangGraph + MCP)</ins>
+#### <ins>🤖 Multi-Agent Layer (LangGraph + MCP)</ins>
 
 - Built a **role-based agentic layer over the entire platform**, a LangGraph MCP framework with **8 role-based agents** (recruiter, hiring manager, candidate & more), each scoped to that user role's UI and data permissions.
 - Designed a **hybrid tool-routing architecture** where each agent chose intelligently between two access modes, **frontend APIs** (for operational actions like candidate screening, approvals, status changes, and role definition, reusing its permission and audit layer) and **direct database** access via a LangChain NL-to-SQL agent (for complex analytics queries not covered by pre-built dashboards).
@@ -93,7 +93,7 @@ Enterprise platform combining AI-driven candidate-job matching, a role-based age
 - Enforced **human-in-the-loop approvals** for state-changing actions and applied role-based database access controls so each agent only queried and acted on data its user role was authorized to see.
 - Integrated **action execution, process analytics,** and **conversational memory** with full observability, logging, and traceability; deployed on Azure as a microservice.
 
-### <ins>📄 Document OCR Pipeline (Application Intake + Onboarding)</ins>
+#### <ins>📄 Document OCR Pipeline (Application Intake + Onboarding)</ins>
 
 - **Owned the document ingestion layer** spanning application intake (CVs, experience letters, educational and equivalency certificates) and onboarding (identity, compliance, and life-event documents), **15+ distinct document types including UAE-specific formats** like Emirates IDs and Thiqa cards, tailored to UAE regulatory requirements.
 - **Fine-tuned custom Azure models** for structured extraction and object detection, Azure Document Intelligence Custom Models for key–value fields (issue/expiry dates, IDs, attestation status, salary, nationality) and Azure Custom Vision Models for stamps, logos, signatures, and letterhead detection on experience letters and legal documents.
@@ -102,9 +102,9 @@ Enterprise platform combining AI-driven candidate-job matching, a role-based age
 
 **🛠 Tech Stack:** Azure OpenAI, Azure Document Intelligence, Azure Custom Vision, Azure SDK, Azure ML (model monitoring), Azure Monitor, Azure Blob Storage, Azure Key Vault, Milvus, PostgreSQL, Hugging Face Transformers, PyTorch Serve, spaCy, NLTK, LangGraph, MCP, LangChain (NL-to-SQL), FastAPI, WebSockets, Docker, pdf2image, PyMuPDF, Pillow, OpenCV, Pydantic, Python
 
----
+-
 
-#### Product: <a href="https://www.resthero.io/" target="_blank" rel="noopener noreferrer">RestHero ➚</a> · <ins>Multi-brand food recommendation SaaS platform</ins> · Client: RestHero (UAE)
+### Product: <a href="https://www.resthero.io/" target="_blank" rel="noopener noreferrer">RestHero ➚</a> · <ins>Multi-brand food recommendation SaaS platform</ins> · Client: RestHero (UAE)
 
 - Architected a **multi-brand content-based recommender** serving restaurant catalogues across the platform, with an **ETL pipeline** ingesting item metadata (title, description, ingredients) from **MongoDB** and cron-driven refreshes for menu updates and new item onboarding.
 - Solved the **item cold-start problem** using multilingual sentence embeddings, making new dishes and restaurants recommendable from metadata alone.
