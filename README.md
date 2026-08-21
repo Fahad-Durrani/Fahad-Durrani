@@ -11,7 +11,7 @@
 
 <td width="68%" valign="top" style="border: none;">
 
-**Senior AI Engineer** with nearly 5 years leading the design and delivery of production AI systems across **GenAI, multi-agent frameworks, RAG, recommenders, and on-device AI**.
+**Senior AI Engineer** with nearly 5 years leading the design and delivery of production AI systems.
 
 Shipped products serving users across the **US, UAE, and Pakistan**, driving cost, latency, and quality trade-offs end-to-end — from architecture through deployment across **Azure, AWS, and GCP**.
 
