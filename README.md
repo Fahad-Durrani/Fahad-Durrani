@@ -110,7 +110,7 @@ Enterprise platform combining AI-driven candidate-job matching, a role-based age
 - Enforced **human-in-the-loop approvals** for state-changing actions and applied role-based database access controls so each agent only queried and acted on data its user role was authorized to see.
 - Integrated **action execution, process analytics,** and **conversational memory** with full observability, logging, and traceability; deployed on Azure as a microservice.
   
-- <p align="center">
+ <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1__MjT1DaDaqNOCuWjKyF8PRSicauGnR5" width="420" />
   <img src="https://drive.google.com/uc?export=view&id=1GftWn2ECfyXF3qFl0KOT5SnwC99H2KPt" width="420" />
 </p>
