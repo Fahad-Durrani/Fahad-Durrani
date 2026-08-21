@@ -30,3 +30,18 @@ Senior AI Engineer with nearly 5 years leading design and delivery of production
 - **Lead the AI team** and cross-platform delivery across Android and iOS, driving intent routing, retrieval fusion, on-device inference strategy, and **project-wide cost optimization (LLM API + cloud spend)**; own sprint planning via Notion and Asana and contribute to AI UI/UX.
 
 **🛠 Tech Stack:** Room Database, CoreData, SQLite, ONNX, CoreML, ML Kit, Apple Intelligence, Text & Image Embedding Models, Model Quantization (FP16, INT8), Hybrid Retrieval (RRF), Vertex AI, Google Cloud Run, Firebase, Notion, Asana
+
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1nqK4R7lpRhKOUoAz8WQKIIzNqgWAeGVg" width="200" />
+  <img src="https://drive.google.com/uc?export=view&id=1nG32Bfcz9I697PuWF-ypgIiIczcyPc4w" width="200" />
+  <img src="https://drive.google.com/uc?export=view&id=12c4I_CnFAthuVRDi4c-I-xoKpIvd1GAK" width="200" />
+  <img src="https://drive.google.com/uc?export=view&id=17UCqLD2JiNnPTVC1kRmRuxLCUG48nWYX" width="200" />
+</p>
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=19vLm9zlfU95FLiJPAS3VwoE4I_gzdAoN" width="200" />
+  <img src="https://drive.google.com/uc?export=view&id=1kErN5S-YMy3V0EL7snMaSOLodUlRpa8j" width="200" />
+  <img src="https://drive.google.com/uc?export=view&id=1CTb0vxht87eST7ykN16yTqzwXlL9Htb7" width="200" />
+  <img src="https://drive.google.com/uc?export=view&id=1YWK1qM6it9xj3DNoyhxjhgjdMBiEjOkx" width="200" />
+</p>
