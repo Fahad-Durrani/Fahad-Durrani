@@ -20,7 +20,7 @@ Senior AI Engineer with nearly 5 years leading design and delivery of production
 ### 🏢 Senior AI Engineer — 9D Technologies
 📍 **Hybrid (Islamabad, Pakistan)** &nbsp;·&nbsp; 📅 **February 2026 – Present**
 
-**Product: [XeNo AI ➚](https://play.google.com/store/apps/details?id=filemanager.ai.personnel.assistant) · <ins>AI File Manager for Android & iOS</ins> · Client: [Darwin Technology L.L.C ➚](https://play.google.com/store/apps/dev?id=7910378118912309421) (UAE)**
+**Product: [XeNo AI ➚](https://play.google.com/store/apps/details?id=filemanager.ai.personnel.assistant) · <ins>AI File Manager for Android & iOS</ins> · Client: [Darwin Technology L.L.C ➚](https://play.google.com/store/apps/dev?id=7910378118912309421) (UAE)**🎥 [Watch Demo ➚](https://drive.google.com/file/d/11NagRPShB0j-ILU5i91y6vIcezTmETLe/view?usp=sharing)**
 
 - Cut multimodal **RAG cost by ~60%** by delivering the on-device inference stack (ONNX / CoreML) with **quantized embedding models** and on-device OCR (Google ML Kit / Apple Intelligence) across Android and iOS, powering search, chat, and Q&A over documents and images while keeping all data local.
 - **Designed and led the Ask AI pipeline architecture** with context resolution, intent classification, and **hybrid retrieval** fusing semantic, keyword, metadata, and on-device structured-data queries (Room Database with text-to-SQL on Android, CoreData Predicates on iOS) via Reciprocal Rank Fusion (RRF) into a single cited response; enabled **voice queries** and optional **Web Search** via opt-in cloud APIs.
