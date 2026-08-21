@@ -101,6 +101,7 @@ Enterprise platform combining AI-driven candidate-job matching, a role-based age
   <img src="https://drive.google.com/uc?export=view&id=1yLg57K29MLAO1k4ncamNmHJwXtxibD__" width="280" />
   <img src="https://drive.google.com/uc?export=view&id=1trElOIgg4UJ43SYfFD7QiHXMC_QU7OE0" width="280" />
 </p>
+
 #### <ins>🤖 Multi-Agent Layer (LangGraph + MCP)</ins>
 
 - Built a **role-based agentic layer over the entire platform**, a LangGraph MCP framework with **8 role-based agents** (recruiter, hiring manager, candidate & more), each scoped to that user role's UI and data permissions.
