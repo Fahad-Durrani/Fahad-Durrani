@@ -6,11 +6,10 @@
   />
 </p>
 
-
 <table style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
 
-<td width="65%" valign="top" style="border: none;">
+<td width="68%" valign="top" style="border: none;">
 
 **Senior AI Engineer** with nearly 5 years leading the design and delivery of production AI systems across **GenAI, multi-agent frameworks, RAG, recommenders, and on-device AI**.
 
@@ -18,17 +17,19 @@ Shipped products serving users across the **US, UAE, and Pakistan**, driving cos
 
 </td>
 
-<td width="35%" valign="top" style="border: none;">
+<td width="32%" valign="top" style="border: none;">
 
-📍 **Islamabad, Pakistan**
-📧 **Email:** [fahaddurrani866@gmail.com](mailto:fahaddurrani866@gmail.com)
-🔗 **LinkedIn:** [fahaddurrani](https://www.linkedin.com/in/fahaddurrani/)
-💻 **GitHub:** [Fahad-Durrani](https://github.com/Fahad-Durrani)
+📧 **Email**  
+fahaddurrani866@gmail.com
+
+🎓 **MS Data Science**  
+FAST NUCES
 
 </td>
 
 </tr>
 </table>
+
 
 
 <hr>
