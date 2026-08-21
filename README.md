@@ -90,7 +90,17 @@ Enterprise platform combining AI-driven candidate-job matching, a role-based age
 - Deployed a **RAG pipeline** on **Milvus** for embedding storage and candidate matching; served embedding model via **PyTorch Serve**, optimizing generative-model costs.
 - **Cut inference costs by ~40%** by designing first-level and second-level candidate-job matching tiers that reduced reliance on expensive generative models.
 - Managed data with **PostgreSQL** and shipped the full ATS as containerized microservices on Azure with scalability, reliability, and secure remote access.
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=13h3u4Xce6HwP4jDV7vBlgl2QNEHoSEH4" width="280" />
+  <img src="https://drive.google.com/uc?export=view&id=1bYS-7KYDoFpB_3qUUPf7uGz8e5EeYQEn" width="280" />
+  <img src="https://drive.google.com/uc?export=view&id=1ufscR7UVbz3blAkkRwlF8qvT6je-o5HE" width="280" />
+</p>
 
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1hJrqEuhPYbyFUVFo9DbS_gqVE9_WmiwR" width="280" />
+  <img src="https://drive.google.com/uc?export=view&id=1yLg57K29MLAO1k4ncamNmHJwXtxibD__" width="280" />
+  <img src="https://drive.google.com/uc?export=view&id=1trElOIgg4UJ43SYfFD7QiHXMC_QU7OE0" width="280" />
+</p>
 #### <ins>🤖 Multi-Agent Layer (LangGraph + MCP)</ins>
 
 - Built a **role-based agentic layer over the entire platform**, a LangGraph MCP framework with **8 role-based agents** (recruiter, hiring manager, candidate & more), each scoped to that user role's UI and data permissions.
