@@ -45,3 +45,16 @@ Senior AI Engineer with nearly 5 years leading design and delivery of production
   <img src="https://drive.google.com/uc?export=view&id=1CTb0vxht87eST7ykN16yTqzwXlL9Htb7" width="200" />
   <img src="https://drive.google.com/uc?export=view&id=1YWK1qM6it9xj3DNoyhxjhgjdMBiEjOkx" width="200" />
 </p>
+
+---
+
+### 🏢 AI Engineer / Data Scientist — <a href="https://techgenies.com/" target="_blank" rel="noopener noreferrer">TechGenies ➚</a>
+📍 **Remote (Texas, USA)** &nbsp;·&nbsp; 📅 **Nov 2025 – Jan 2026**
+
+*Responsibilities/Solutions*
+
+- **Delivered a natural-language analytics platform** replacing manual SQL requests for the internal analytics team, unblocking non-technical stakeholders to query NPS and customer feedback data directly via NL-to-SQL.
+- **Reduced query latency by 30%** through Star Schema data modeling and schema-aware prompt design on **Azure OpenAI**; added sentiment and product classification over open-ended NPS responses to surface trends without manual tagging.
+- Shipped as a **containerized REST service** on **Azure Container Instances** with **automated ETL** (Blob, Functions, SQL) and full observability (Monitor, App Insights), production-ready handoff to the client's internal team.
+
+**🛠 Tech Stack:** Azure OpenAI, Azure Functions, Azure Container Instances, Azure SQL, Azure Monitor, App Insights
