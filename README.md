@@ -176,3 +176,15 @@ Enterprise platform combining AI-driven candidate-job matching, a role-based age
 - **Predicted patient survival** by combining radiomic features with deep learning and ensemble models (**XGBoost, Random Forest, Decision Trees**); visualized results in Power BI, Pandas, and Plotly.
 
 **🛠 Tech Stack:** Python, PyTorch, TensorFlow, YOLO, ChromaDB, LlamaIndex, OpenAI, XGBoost, Random Forest, MySQL, Weights & Biases, Pandas, NumPy, Plotly, Power BI
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1UW0oPxPG59QLx9sAZHQT7QWwbwb1WhV1" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1os92yNdruSF0CJOvJRcRGDXigTpEJR42" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1-Yw2ykRJeJGvPCLaIpWz0vRvcyog-q8T" width="700" />
+</p>
