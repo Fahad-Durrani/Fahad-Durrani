@@ -18,7 +18,9 @@ Senior AI Engineer with nearly 5 years leading design and delivery of production
 
 ---
 
-<h2 align="center" style="border-bottom: none; color: #2E7D32;">💼 &nbsp;Experience</h2>
+<p align="center">
+  <span style="font-size: 24px; font-weight: bold;">💼 &nbsp;Experience</span>
+</p>
 
 ---
 
