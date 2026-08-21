@@ -70,8 +70,6 @@ Senior AI Engineer with nearly 5 years leading design and delivery of production
 
 ---
 
----
-
 ### 🏢 Machine Learning Engineer — ASLASE, Human Capital Management System
 📍 **Remote (Dubai, UAE)** &nbsp;·&nbsp; 📅 **Feb 2024 – Nov 2025**
 
