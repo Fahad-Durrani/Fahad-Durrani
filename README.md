@@ -1,7 +1,4 @@
-
-<h3>Senior AI Engineer | Architecting & Building Production AI 🚀 | GenAI · Multimodal RAG · Multi-Agent · Recommenders · On-Device AI | MLOps · GCP · Azure · AWS | 5 yrs | MS Data Science (AI) – FAST NUCES</h3>
-
-<table>
+<table border="0">
 <tr>
 <td width="65%" valign="top">
 
@@ -12,6 +9,7 @@ Senior AI Engineer with nearly 5 years leading design and delivery of production
 
 📍 **Location:** Islamabad, Pakistan  
 📧 **Email:** fahaddurrani866@gmail.com  
+📞 **Phone:** +92 334 8666887  
 🔗 **LinkedIn:** [fahaddurrani](https://www.linkedin.com/in/fahaddurrani/)  
 💻 **GitHub:** [Fahad-Durrani](https://github.com/Fahad-Durrani)
 
