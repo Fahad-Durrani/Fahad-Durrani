@@ -108,7 +108,6 @@ Enterprise platform combining AI-driven candidate-job matching, a role-based age
 
 **🛠 Tech Stack:** Azure OpenAI, Azure Document Intelligence, Azure Custom Vision, Azure SDK, Azure ML (model monitoring), Azure Monitor, Azure Blob Storage, Azure Key Vault, Milvus, PostgreSQL, Hugging Face Transformers, PyTorch Serve, spaCy, NLTK, LangGraph, MCP, LangChain (NL-to-SQL), FastAPI, WebSockets, Docker, pdf2image, PyMuPDF, Pillow, OpenCV, Pydantic, Python
 
--
 
 ### Product: <a href="https://www.resthero.io/" target="_blank" rel="noopener noreferrer">RestHero ➚</a> · <ins>Multi-brand food recommendation SaaS platform</ins> · Client: RestHero (UAE)
 
