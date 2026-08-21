@@ -68,6 +68,9 @@ Senior AI Engineer with nearly 5 years leading design and delivery of production
 
 **🛠 Tech Stack:** Azure OpenAI, Azure Functions, Azure Container Instances, Azure SQL, Azure Monitor, App Insights
 
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1LoPH1_vOa0TcPHSXUHcgls6HRRAZtKfe" width="700" />
+</p>
 
 ---
 
