@@ -1,5 +1,5 @@
 <h1 align="center">🎯 AI Engineering Portfolio</h1>
-<p align="center"><em>Building AI systems that ship to real users</em></p>
+<p align="center"><em>Turning AI ideas into production systems</em></p>
 
 ---
 <table style="border: none; border-collapse: collapse;">
